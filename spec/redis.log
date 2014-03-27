@@ -1,0 +1,1813 @@
+[2443] 27 Mar 16:46:29.136 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.9.51 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 2443
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[2443] 27 Mar 16:46:29.138 # Server started, Redis version 2.9.51
+[2443] 27 Mar 16:46:29.138 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[2443] 27 Mar 16:46:29.138 * The server is now ready to accept connections on port 6379
+[2443] 27 Mar 16:46:29.138 * The server is now ready to accept connections at /tmp/redis.sock
+[2443] 27 Mar 16:46:29.138 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:46:34.158 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:46:39.172 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:46:44.187 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:46:49.203 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:46:54.219 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:46:59.231 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:04.254 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:09.278 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:14.294 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:19.308 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:24.321 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:29.337 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:34.354 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:39.369 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:44.382 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:49.397 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:54.412 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:47:59.429 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:04.445 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:09.473 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:14.495 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:19.515 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:24.532 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:29.548 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:34.563 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:39.579 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:44.595 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:49.612 - 0 clients connected (0 slaves), 444360 bytes in use
+[2443] 27 Mar 16:48:54.628 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:09.639 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.9.51 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 2544
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[2544] 27 Mar 16:50:09.641 # Server started, Redis version 2.9.51
+[2544] 27 Mar 16:50:09.641 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[2544] 27 Mar 16:50:09.641 * The server is now ready to accept connections on port 6379
+[2544] 27 Mar 16:50:09.641 * The server is now ready to accept connections at /tmp/redis.sock
+[2544] 27 Mar 16:50:09.641 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:14.656 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:19.672 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:24.694 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:29.714 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:34.731 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:39.746 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:44.762 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:49.783 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:54.809 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:50:59.829 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:51:04.848 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:51:09.878 - 0 clients connected (0 slaves), 444360 bytes in use
+[2544] 27 Mar 16:51:14.514 - Accepted 127.0.0.1:39053
+[2544] 27 Mar 16:51:14.514 - Accepted 127.0.0.1:39054
+[2544] 27 Mar 16:51:14.534 - Reading from client: Connection reset by peer
+[2544] 27 Mar 16:51:14.535 - Reading from client: Connection reset by peer
+[2544] 27 Mar 16:51:14.536 - Accepted 127.0.0.1:39055
+[2544] 27 Mar 16:51:14.538 * DB saved on disk
+[2544] 27 Mar 16:51:14.539 - Client closed connection
+[2544] 27 Mar 16:51:14.541 - Accepted 127.0.0.1:39056
+[2544] 27 Mar 16:51:14.541 - Accepted 127.0.0.1:39057
+[2544] 27 Mar 16:51:14.549 - Reading from client: Connection reset by peer
+[2544] 27 Mar 16:51:14.549 - Client closed connection
+[2544] 27 Mar 16:51:14.550 - Accepted 127.0.0.1:39058
+[2544] 27 Mar 16:51:14.552 * DB saved on disk
+[2544] 27 Mar 16:51:14.552 - Client closed connection
+[2544] 27 Mar 16:51:14.553 - Accepted 127.0.0.1:39059
+[2544] 27 Mar 16:51:14.554 - Accepted 127.0.0.1:39060
+[2544] 27 Mar 16:51:14.571 - Reading from client: Connection reset by peer
+[2544] 27 Mar 16:51:14.571 - Client closed connection
+[2544] 27 Mar 16:51:14.571 - Accepted 127.0.0.1:39061
+[2544] 27 Mar 16:51:14.573 * DB saved on disk
+[2544] 27 Mar 16:51:14.573 - Client closed connection
+[2544] 27 Mar 16:51:14.576 - Accepted 127.0.0.1:39062
+[2544] 27 Mar 16:51:14.576 - Accepted 127.0.0.1:39063
+[2544] 27 Mar 16:51:14.584 - Client closed connection
+[2544] 27 Mar 16:51:14.584 - Client closed connection
+[2544] 27 Mar 16:51:14.585 - Accepted 127.0.0.1:39064
+[2544] 27 Mar 16:51:14.587 * DB saved on disk
+[2544] 27 Mar 16:51:14.587 - Client closed connection
+[2544] 27 Mar 16:51:14.589 - Accepted 127.0.0.1:39065
+[2544] 27 Mar 16:51:14.589 - Accepted 127.0.0.1:39066
+[2544] 27 Mar 16:51:14.597 - Client closed connection
+[2544] 27 Mar 16:51:14.597 - Client closed connection
+[2544] 27 Mar 16:51:14.597 - Accepted 127.0.0.1:39067
+[2544] 27 Mar 16:51:14.600 * DB saved on disk
+[2544] 27 Mar 16:51:14.600 - Client closed connection
+[2544] 27 Mar 16:51:14.603 - Accepted 127.0.0.1:39068
+[2544] 27 Mar 16:51:14.603 - Accepted 127.0.0.1:39069
+[2544] 27 Mar 16:51:14.895 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[2544] 27 Mar 16:51:14.895 - 2 clients connected (0 slaves), 522696 bytes in use
+[2544] 27 Mar 16:51:15.964 - Client closed connection
+[2544] 27 Mar 16:51:15.965 - Client closed connection
+[2544] 27 Mar 16:51:15.966 - Accepted 127.0.0.1:39070
+[2544] 27 Mar 16:51:15.970 * DB saved on disk
+[2544] 27 Mar 16:51:15.970 - Client closed connection
+[2544] 27 Mar 16:51:15.972 - Accepted 127.0.0.1:39071
+[2544] 27 Mar 16:51:15.972 - Accepted 127.0.0.1:39072
+[2544] 27 Mar 16:51:16.691 - Client closed connection
+[2544] 27 Mar 16:51:16.692 - Client closed connection
+[2544] 27 Mar 16:51:16.692 - Accepted 127.0.0.1:39073
+[2544] 27 Mar 16:51:16.695 * DB saved on disk
+[2544] 27 Mar 16:51:16.696 - Client closed connection
+[2544] 27 Mar 16:51:16.698 - Accepted 127.0.0.1:39074
+[2544] 27 Mar 16:51:16.698 - Accepted 127.0.0.1:39075
+[2544] 27 Mar 16:51:16.706 - Client closed connection
+[2544] 27 Mar 16:51:16.706 - Error writing to client: Connection reset by peer
+[2544] 27 Mar 16:51:16.707 - Accepted 127.0.0.1:39076
+[2544] 27 Mar 16:51:16.709 * DB saved on disk
+[2544] 27 Mar 16:51:16.710 - Client closed connection
+[2544] 27 Mar 16:51:16.711 - Accepted 127.0.0.1:39077
+[2544] 27 Mar 16:51:16.711 - Accepted 127.0.0.1:39078
+[2544] 27 Mar 16:51:16.720 - Client closed connection
+[2544] 27 Mar 16:51:16.721 - Error writing to client: Connection reset by peer
+[2544] 27 Mar 16:51:16.721 - Accepted 127.0.0.1:39079
+[2544] 27 Mar 16:51:16.722 * DB saved on disk
+[2544] 27 Mar 16:51:16.723 - Client closed connection
+[2544] 27 Mar 16:51:16.724 - Accepted 127.0.0.1:39080
+[2544] 27 Mar 16:51:16.725 - Accepted 127.0.0.1:39081
+[2544] 27 Mar 16:51:16.747 - Reading from client: Connection reset by peer
+[2544] 27 Mar 16:51:16.747 - Error writing to client: Connection reset by peer
+[2544] 27 Mar 16:51:16.747 - Accepted 127.0.0.1:39082
+[2544] 27 Mar 16:51:16.754 * DB saved on disk
+[2544] 27 Mar 16:51:16.756 - Client closed connection
+[2544] 27 Mar 16:51:16.760 - Accepted 127.0.0.1:39083
+[2544] 27 Mar 16:51:16.760 - Accepted 127.0.0.1:39084
+[2544] 27 Mar 16:51:16.865 - Client closed connection
+[2544] 27 Mar 16:51:16.865 - Client closed connection
+[2544] 27 Mar 16:51:16.865 - Accepted 127.0.0.1:39085
+[2544] 27 Mar 16:51:16.872 * DB saved on disk
+[2544] 27 Mar 16:51:16.886 - Client closed connection
+[2544] 27 Mar 16:51:16.898 - Accepted 127.0.0.1:39086
+[2544] 27 Mar 16:51:16.899 - Accepted 127.0.0.1:39087
+[2544] 27 Mar 16:51:16.906 - Client closed connection
+[2544] 27 Mar 16:51:16.906 - Client closed connection
+[2544] 27 Mar 16:51:16.910 - Accepted 127.0.0.1:39088
+[2544] 27 Mar 16:51:16.914 * DB saved on disk
+[2544] 27 Mar 16:51:16.916 - Client closed connection
+[2544] 27 Mar 16:51:16.930 - Accepted 127.0.0.1:39089
+[2544] 27 Mar 16:51:16.930 - Accepted 127.0.0.1:39090
+[2544] 27 Mar 16:51:16.974 - Client closed connection
+[2544] 27 Mar 16:51:16.974 - Client closed connection
+[2544] 27 Mar 16:51:16.984 - Accepted 127.0.0.1:39091
+[2544] 27 Mar 16:51:16.990 * DB saved on disk
+[2544] 27 Mar 16:51:16.991 - Client closed connection
+[2544] 27 Mar 16:51:16.994 - Accepted 127.0.0.1:39092
+[2544] 27 Mar 16:51:16.994 - Accepted 127.0.0.1:39093
+[2544] 27 Mar 16:51:17.019 - Client closed connection
+[2544] 27 Mar 16:51:17.019 - Client closed connection
+[2544] 27 Mar 16:51:17.023 - Accepted 127.0.0.1:39094
+[2544] 27 Mar 16:51:17.054 * DB saved on disk
+[2544] 27 Mar 16:51:17.054 - Client closed connection
+[2544] 27 Mar 16:51:17.059 - Accepted 127.0.0.1:39095
+[2544] 27 Mar 16:51:17.059 - Accepted 127.0.0.1:39096
+[2544] 27 Mar 16:51:17.094 - Client closed connection
+[2544] 27 Mar 16:51:17.094 - Client closed connection
+[2544] 27 Mar 16:51:17.094 - Accepted 127.0.0.1:39097
+[2544] 27 Mar 16:51:17.099 * DB saved on disk
+[2544] 27 Mar 16:51:17.103 - Client closed connection
+[2544] 27 Mar 16:51:17.110 - Accepted 127.0.0.1:39098
+[2544] 27 Mar 16:51:17.110 - Accepted 127.0.0.1:39099
+[2544] 27 Mar 16:51:17.187 - Client closed connection
+[2544] 27 Mar 16:51:17.187 - Client closed connection
+[2544] 27 Mar 16:51:17.191 - Accepted 127.0.0.1:39100
+[2544] 27 Mar 16:51:17.195 * DB saved on disk
+[2544] 27 Mar 16:51:17.197 - Client closed connection
+[2544] 27 Mar 16:51:17.202 - Accepted 127.0.0.1:39101
+[2544] 27 Mar 16:51:17.202 - Accepted 127.0.0.1:39102
+[2544] 27 Mar 16:51:17.280 - Client closed connection
+[2544] 27 Mar 16:51:17.280 - Client closed connection
+[2544] 27 Mar 16:51:17.285 - Accepted 127.0.0.1:39103
+[2544] 27 Mar 16:51:17.291 * DB saved on disk
+[2544] 27 Mar 16:51:17.294 - Client closed connection
+[2544] 27 Mar 16:51:17.298 - Accepted 127.0.0.1:39104
+[2544] 27 Mar 16:51:17.298 - Accepted 127.0.0.1:39105
+[2544] 27 Mar 16:51:17.374 - Client closed connection
+[2544] 27 Mar 16:51:17.374 - Client closed connection
+[2544] 27 Mar 16:51:17.377 - Accepted 127.0.0.1:39106
+[2544] 27 Mar 16:51:17.382 * DB saved on disk
+[2544] 27 Mar 16:51:17.386 - Client closed connection
+[2544] 27 Mar 16:51:17.392 - Accepted 127.0.0.1:39107
+[2544] 27 Mar 16:51:17.392 - Accepted 127.0.0.1:39108
+[2544] 27 Mar 16:51:17.476 - Client closed connection
+[2544] 27 Mar 16:51:17.476 - Accepted 127.0.0.1:39109
+[2544] 27 Mar 16:51:17.476 - Client closed connection
+[2544] 27 Mar 16:51:17.482 * DB saved on disk
+[2544] 27 Mar 16:51:17.484 - Client closed connection
+[2544] 27 Mar 16:51:17.488 - Accepted 127.0.0.1:39110
+[2544] 27 Mar 16:51:17.488 - Accepted 127.0.0.1:39111
+[2544] 27 Mar 16:51:17.566 - Client closed connection
+[2544] 27 Mar 16:51:17.567 - Client closed connection
+[2544] 27 Mar 16:51:17.567 - Accepted 127.0.0.1:39112
+[2544] 27 Mar 16:51:17.569 * DB saved on disk
+[2544] 27 Mar 16:51:17.569 - Client closed connection
+[2544] 27 Mar 16:51:17.572 - Accepted 127.0.0.1:39113
+[2544] 27 Mar 16:51:17.572 - Accepted 127.0.0.1:39114
+[2544] 27 Mar 16:51:17.622 - Client closed connection
+[2544] 27 Mar 16:51:17.622 - Client closed connection
+[2544] 27 Mar 16:51:17.622 - Accepted 127.0.0.1:39115
+[2544] 27 Mar 16:51:17.624 * DB saved on disk
+[2544] 27 Mar 16:51:17.624 - Client closed connection
+[2544] 27 Mar 16:51:17.627 - Accepted 127.0.0.1:39116
+[2544] 27 Mar 16:51:17.627 - Accepted 127.0.0.1:39117
+[2544] 27 Mar 16:51:17.691 - Client closed connection
+[2544] 27 Mar 16:51:17.692 - Client closed connection
+[2544] 27 Mar 16:51:17.692 - Accepted 127.0.0.1:39118
+[2544] 27 Mar 16:51:17.694 * DB saved on disk
+[2544] 27 Mar 16:51:17.695 - Client closed connection
+[2544] 27 Mar 16:51:17.696 - Accepted 127.0.0.1:39119
+[2544] 27 Mar 16:51:17.696 - Accepted 127.0.0.1:39120
+[2544] 27 Mar 16:51:17.750 - Client closed connection
+[2544] 27 Mar 16:51:17.750 - Client closed connection
+[2544] 27 Mar 16:51:17.750 - Accepted 127.0.0.1:39121
+[2544] 27 Mar 16:51:17.752 * DB saved on disk
+[2544] 27 Mar 16:51:17.752 - Client closed connection
+[2544] 27 Mar 16:51:17.755 - Accepted 127.0.0.1:39122
+[2544] 27 Mar 16:51:17.755 - Accepted 127.0.0.1:39123
+[2544] 27 Mar 16:51:17.820 - Client closed connection
+[2544] 27 Mar 16:51:17.820 - Client closed connection
+[2544] 27 Mar 16:51:17.821 - Accepted 127.0.0.1:39124
+[2544] 27 Mar 16:51:17.824 * DB saved on disk
+[2544] 27 Mar 16:51:17.824 - Client closed connection
+[2544] 27 Mar 16:51:17.827 - Accepted 127.0.0.1:39125
+[2544] 27 Mar 16:51:17.827 - Accepted 127.0.0.1:39126
+[2544] 27 Mar 16:51:17.891 - Client closed connection
+[2544] 27 Mar 16:51:17.891 - Client closed connection
+[2544] 27 Mar 16:51:17.892 - Accepted 127.0.0.1:39127
+[2544] 27 Mar 16:51:17.904 * DB saved on disk
+[2544] 27 Mar 16:51:17.905 - Client closed connection
+[2544] 27 Mar 16:51:17.908 - Accepted 127.0.0.1:39128
+[2544] 27 Mar 16:51:17.908 - Accepted 127.0.0.1:39129
+[2544] 27 Mar 16:51:17.975 - Client closed connection
+[2544] 27 Mar 16:51:17.975 - Client closed connection
+[2544] 27 Mar 16:51:17.976 - Accepted 127.0.0.1:39130
+[2544] 27 Mar 16:51:17.980 * DB saved on disk
+[2544] 27 Mar 16:51:17.985 - Client closed connection
+[2544] 27 Mar 16:51:17.988 - Accepted 127.0.0.1:39131
+[2544] 27 Mar 16:51:17.988 - Accepted 127.0.0.1:39132
+[2544] 27 Mar 16:51:18.095 - Client closed connection
+[2544] 27 Mar 16:51:18.095 - Client closed connection
+[2544] 27 Mar 16:51:18.095 - Accepted 127.0.0.1:39133
+[2544] 27 Mar 16:51:18.099 * DB saved on disk
+[2544] 27 Mar 16:51:18.099 - Client closed connection
+[2544] 27 Mar 16:51:18.102 - Accepted 127.0.0.1:39134
+[2544] 27 Mar 16:51:18.102 - Accepted 127.0.0.1:39135
+[2544] 27 Mar 16:51:18.166 - Client closed connection
+[2544] 27 Mar 16:51:18.167 - Client closed connection
+[2544] 27 Mar 16:51:18.167 - Accepted 127.0.0.1:39136
+[2544] 27 Mar 16:51:18.170 * DB saved on disk
+[2544] 27 Mar 16:51:18.171 - Client closed connection
+[2544] 27 Mar 16:51:18.173 - Accepted 127.0.0.1:39137
+[2544] 27 Mar 16:51:18.173 - Accepted 127.0.0.1:39138
+[2544] 27 Mar 16:51:18.235 - Client closed connection
+[2544] 27 Mar 16:51:18.235 - Client closed connection
+[2544] 27 Mar 16:51:18.236 - Accepted 127.0.0.1:39139
+[2544] 27 Mar 16:51:18.239 * DB saved on disk
+[2544] 27 Mar 16:51:18.240 - Client closed connection
+[2544] 27 Mar 16:51:18.243 - Accepted 127.0.0.1:39140
+[2544] 27 Mar 16:51:18.243 - Accepted 127.0.0.1:39141
+[2544] 27 Mar 16:51:18.250 - Accepted 127.0.0.1:39142
+[2544] 27 Mar 16:51:18.250 - Accepted 127.0.0.1:39143
+[2544] 27 Mar 16:51:18.250 - Accepted 127.0.0.1:39144
+[2544] 27 Mar 16:51:18.250 - Accepted 127.0.0.1:39145
+[2544] 27 Mar 16:51:18.336 - Client closed connection
+[2544] 27 Mar 16:51:18.336 - Client closed connection
+[2544] 27 Mar 16:51:18.336 - Accepted 127.0.0.1:39146
+[2544] 27 Mar 16:51:18.338 * DB saved on disk
+[2544] 27 Mar 16:51:18.338 - Client closed connection
+[2544] 27 Mar 16:51:18.341 - Accepted 127.0.0.1:39147
+[2544] 27 Mar 16:51:18.341 - Accepted 127.0.0.1:39148
+[2544] 27 Mar 16:51:18.347 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.347 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.356 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:18.356 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:18.356 - Accepted 127.0.0.1:39149
+[2544] 27 Mar 16:51:18.363 * DB saved on disk
+[2544] 27 Mar 16:51:18.365 - Client closed connection
+[2544] 27 Mar 16:51:18.369 - Accepted 127.0.0.1:39150
+[2544] 27 Mar 16:51:18.369 - Accepted 127.0.0.1:39151
+[2544] 27 Mar 16:51:18.381 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.381 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.393 - Reading from client: Connection reset by peer
+[2544] 27 Mar 16:51:18.393 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:18.395 - Accepted 127.0.0.1:39152
+[2544] 27 Mar 16:51:18.398 * DB saved on disk
+[2544] 27 Mar 16:51:18.407 - Client closed connection
+[2544] 27 Mar 16:51:18.409 - Accepted 127.0.0.1:39153
+[2544] 27 Mar 16:51:18.409 - Accepted 127.0.0.1:39154
+[2544] 27 Mar 16:51:18.429 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.429 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.481 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:18.481 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:18.482 - Accepted 127.0.0.1:39155
+[2544] 27 Mar 16:51:18.486 * DB saved on disk
+[2544] 27 Mar 16:51:18.486 - Client closed connection
+[2544] 27 Mar 16:51:18.490 - Accepted 127.0.0.1:39156
+[2544] 27 Mar 16:51:18.490 - Accepted 127.0.0.1:39157
+[2544] 27 Mar 16:51:18.495 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.495 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.504 - Client closed connection
+[2544] 27 Mar 16:51:18.504 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:18.504 - Accepted 127.0.0.1:39158
+[2544] 27 Mar 16:51:18.606 * DB saved on disk
+[2544] 27 Mar 16:51:18.606 - Client closed connection
+[2544] 27 Mar 16:51:18.608 - Accepted 127.0.0.1:39159
+[2544] 27 Mar 16:51:18.608 - Accepted 127.0.0.1:39160
+[2544] 27 Mar 16:51:18.614 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.614 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.621 - Client closed connection
+[2544] 27 Mar 16:51:18.621 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:18.621 - Accepted 127.0.0.1:39161
+[2544] 27 Mar 16:51:18.625 * DB saved on disk
+[2544] 27 Mar 16:51:18.626 - Client closed connection
+[2544] 27 Mar 16:51:18.629 - Accepted 127.0.0.1:39162
+[2544] 27 Mar 16:51:18.629 - Accepted 127.0.0.1:39163
+[2544] 27 Mar 16:51:18.638 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:18.638 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:19.997 - Client closed connection
+[2544] 27 Mar 16:51:19.997 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:19.997 - Accepted 127.0.0.1:39164
+[2544] 27 Mar 16:51:20.001 * DB saved on disk
+[2544] 27 Mar 16:51:20.002 - Client closed connection
+[2544] 27 Mar 16:51:20.002 - Accepted 127.0.0.1:39165
+[2544] 27 Mar 16:51:20.003 - Accepted 127.0.0.1:39166
+[2544] 27 Mar 16:51:20.006 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:20.006 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:20.010 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[2544] 27 Mar 16:51:20.010 - 20 clients connected (0 slaves), 1050032 bytes in use
+[2544] 27 Mar 16:51:20.722 - Client closed connection
+[2544] 27 Mar 16:51:20.722 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:20.723 - Accepted 127.0.0.1:39167
+[2544] 27 Mar 16:51:21.310 * DB saved on disk
+[2544] 27 Mar 16:51:21.311 - Client closed connection
+[2544] 27 Mar 16:51:21.317 - Accepted 127.0.0.1:39168
+[2544] 27 Mar 16:51:21.318 - Accepted 127.0.0.1:39169
+[2544] 27 Mar 16:51:21.324 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.324 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.333 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.333 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.334 - Accepted 127.0.0.1:39170
+[2544] 27 Mar 16:51:21.337 * DB saved on disk
+[2544] 27 Mar 16:51:21.337 - Client closed connection
+[2544] 27 Mar 16:51:21.339 - Accepted 127.0.0.1:39171
+[2544] 27 Mar 16:51:21.339 - Accepted 127.0.0.1:39172
+[2544] 27 Mar 16:51:21.344 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.344 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.351 - Client closed connection
+[2544] 27 Mar 16:51:21.352 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.352 - Accepted 127.0.0.1:39173
+[2544] 27 Mar 16:51:21.355 * DB saved on disk
+[2544] 27 Mar 16:51:21.356 - Client closed connection
+[2544] 27 Mar 16:51:21.358 - Accepted 127.0.0.1:39174
+[2544] 27 Mar 16:51:21.359 - Accepted 127.0.0.1:39175
+[2544] 27 Mar 16:51:21.362 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.362 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.378 - Client closed connection
+[2544] 27 Mar 16:51:21.378 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.379 - Accepted 127.0.0.1:39176
+[2544] 27 Mar 16:51:21.380 * DB saved on disk
+[2544] 27 Mar 16:51:21.381 - Client closed connection
+[2544] 27 Mar 16:51:21.382 - Accepted 127.0.0.1:39177
+[2544] 27 Mar 16:51:21.382 - Accepted 127.0.0.1:39178
+[2544] 27 Mar 16:51:21.390 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.390 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.433 - Client closed connection
+[2544] 27 Mar 16:51:21.433 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.433 - Accepted 127.0.0.1:39179
+[2544] 27 Mar 16:51:21.436 * DB saved on disk
+[2544] 27 Mar 16:51:21.437 - Client closed connection
+[2544] 27 Mar 16:51:21.442 - Accepted 127.0.0.1:39180
+[2544] 27 Mar 16:51:21.442 - Accepted 127.0.0.1:39181
+[2544] 27 Mar 16:51:21.445 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.445 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.459 - Client closed connection
+[2544] 27 Mar 16:51:21.459 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.462 - Accepted 127.0.0.1:39182
+[2544] 27 Mar 16:51:21.467 * DB saved on disk
+[2544] 27 Mar 16:51:21.468 - Client closed connection
+[2544] 27 Mar 16:51:21.471 - Accepted 127.0.0.1:39183
+[2544] 27 Mar 16:51:21.472 - Accepted 127.0.0.1:39184
+[2544] 27 Mar 16:51:21.490 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.490 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.503 - Client closed connection
+[2544] 27 Mar 16:51:21.503 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.503 - Accepted 127.0.0.1:39185
+[2544] 27 Mar 16:51:21.505 * DB saved on disk
+[2544] 27 Mar 16:51:21.506 - Client closed connection
+[2544] 27 Mar 16:51:21.510 - Accepted 127.0.0.1:39186
+[2544] 27 Mar 16:51:21.510 - Accepted 127.0.0.1:39187
+[2544] 27 Mar 16:51:21.514 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.514 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.522 - Client closed connection
+[2544] 27 Mar 16:51:21.522 - Client closed connection
+[2544] 27 Mar 16:51:21.523 - Accepted 127.0.0.1:39188
+[2544] 27 Mar 16:51:21.525 * DB saved on disk
+[2544] 27 Mar 16:51:21.527 - Client closed connection
+[2544] 27 Mar 16:51:21.530 - Accepted 127.0.0.1:39189
+[2544] 27 Mar 16:51:21.530 - Accepted 127.0.0.1:39190
+[2544] 27 Mar 16:51:21.534 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.534 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.561 - Client closed connection
+[2544] 27 Mar 16:51:21.561 - Client closed connection
+[2544] 27 Mar 16:51:21.563 - Accepted 127.0.0.1:39191
+[2544] 27 Mar 16:51:21.571 * DB saved on disk
+[2544] 27 Mar 16:51:21.572 - Client closed connection
+[2544] 27 Mar 16:51:21.577 - Accepted 127.0.0.1:39192
+[2544] 27 Mar 16:51:21.577 - Accepted 127.0.0.1:39193
+[2544] 27 Mar 16:51:21.581 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.581 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.654 - Client closed connection
+[2544] 27 Mar 16:51:21.655 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.656 - Accepted 127.0.0.1:39194
+[2544] 27 Mar 16:51:21.660 * DB saved on disk
+[2544] 27 Mar 16:51:21.662 - Client closed connection
+[2544] 27 Mar 16:51:21.663 - Accepted 127.0.0.1:39195
+[2544] 27 Mar 16:51:21.663 - Accepted 127.0.0.1:39196
+[2544] 27 Mar 16:51:21.667 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.667 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.717 - Client closed connection
+[2544] 27 Mar 16:51:21.717 - Client closed connection
+[2544] 27 Mar 16:51:21.718 - Accepted 127.0.0.1:39197
+[2544] 27 Mar 16:51:21.720 * DB saved on disk
+[2544] 27 Mar 16:51:21.721 - Client closed connection
+[2544] 27 Mar 16:51:21.723 - Accepted 127.0.0.1:39198
+[2544] 27 Mar 16:51:21.723 - Accepted 127.0.0.1:39199
+[2544] 27 Mar 16:51:21.728 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.728 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.788 - Client closed connection
+[2544] 27 Mar 16:51:21.788 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.789 - Accepted 127.0.0.1:39200
+[2544] 27 Mar 16:51:21.792 * DB saved on disk
+[2544] 27 Mar 16:51:21.792 - Client closed connection
+[2544] 27 Mar 16:51:21.795 - Accepted 127.0.0.1:39201
+[2544] 27 Mar 16:51:21.795 - Accepted 127.0.0.1:39202
+[2544] 27 Mar 16:51:21.800 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.800 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.866 - Client closed connection
+[2544] 27 Mar 16:51:21.867 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.870 - Accepted 127.0.0.1:39203
+[2544] 27 Mar 16:51:21.872 * DB saved on disk
+[2544] 27 Mar 16:51:21.874 - Client closed connection
+[2544] 27 Mar 16:51:21.874 - Accepted 127.0.0.1:39204
+[2544] 27 Mar 16:51:21.874 - Accepted 127.0.0.1:39205
+[2544] 27 Mar 16:51:21.879 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.879 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.943 - Client closed connection
+[2544] 27 Mar 16:51:21.943 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:21.943 - Accepted 127.0.0.1:39206
+[2544] 27 Mar 16:51:21.946 * DB saved on disk
+[2544] 27 Mar 16:51:21.946 - Client closed connection
+[2544] 27 Mar 16:51:21.948 - Accepted 127.0.0.1:39207
+[2544] 27 Mar 16:51:21.948 - Accepted 127.0.0.1:39208
+[2544] 27 Mar 16:51:21.952 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:21.952 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.005 - Client closed connection
+[2544] 27 Mar 16:51:22.005 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:22.005 - Accepted 127.0.0.1:39209
+[2544] 27 Mar 16:51:22.009 * DB saved on disk
+[2544] 27 Mar 16:51:22.009 - Client closed connection
+[2544] 27 Mar 16:51:22.012 - Accepted 127.0.0.1:39210
+[2544] 27 Mar 16:51:22.012 - Accepted 127.0.0.1:39211
+[2544] 27 Mar 16:51:22.021 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.021 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.084 - Client closed connection
+[2544] 27 Mar 16:51:22.085 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:22.085 - Accepted 127.0.0.1:39212
+[2544] 27 Mar 16:51:22.088 * DB saved on disk
+[2544] 27 Mar 16:51:22.089 - Client closed connection
+[2544] 27 Mar 16:51:22.089 - Accepted 127.0.0.1:39213
+[2544] 27 Mar 16:51:22.089 - Accepted 127.0.0.1:39214
+[2544] 27 Mar 16:51:22.093 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.093 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.146 - Client closed connection
+[2544] 27 Mar 16:51:22.146 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:22.147 - Accepted 127.0.0.1:39215
+[2544] 27 Mar 16:51:22.149 * DB saved on disk
+[2544] 27 Mar 16:51:22.150 - Client closed connection
+[2544] 27 Mar 16:51:22.152 - Accepted 127.0.0.1:39216
+[2544] 27 Mar 16:51:22.152 - Accepted 127.0.0.1:39217
+[2544] 27 Mar 16:51:22.158 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.158 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.229 - Client closed connection
+[2544] 27 Mar 16:51:22.230 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:22.230 - Accepted 127.0.0.1:39218
+[2544] 27 Mar 16:51:22.234 * DB saved on disk
+[2544] 27 Mar 16:51:22.235 - Client closed connection
+[2544] 27 Mar 16:51:22.248 - Accepted 127.0.0.1:39219
+[2544] 27 Mar 16:51:22.248 - Accepted 127.0.0.1:39220
+[2544] 27 Mar 16:51:22.276 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.277 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.387 - Client closed connection
+[2544] 27 Mar 16:51:22.387 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:22.391 - Accepted 127.0.0.1:39221
+[2544] 27 Mar 16:51:22.394 * DB saved on disk
+[2544] 27 Mar 16:51:22.397 - Client closed connection
+[2544] 27 Mar 16:51:22.403 - Accepted 127.0.0.1:39222
+[2544] 27 Mar 16:51:22.404 - Accepted 127.0.0.1:39223
+[2544] 27 Mar 16:51:22.411 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.411 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.480 - Client closed connection
+[2544] 27 Mar 16:51:22.480 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:22.481 - Accepted 127.0.0.1:39224
+[2544] 27 Mar 16:51:22.486 * DB saved on disk
+[2544] 27 Mar 16:51:22.487 - Client closed connection
+[2544] 27 Mar 16:51:22.489 - Accepted 127.0.0.1:39225
+[2544] 27 Mar 16:51:22.489 - Accepted 127.0.0.1:39226
+[2544] 27 Mar 16:51:22.495 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.495 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.565 - Client closed connection
+[2544] 27 Mar 16:51:22.565 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:22.565 - Accepted 127.0.0.1:39227
+[2544] 27 Mar 16:51:22.567 * DB saved on disk
+[2544] 27 Mar 16:51:22.568 - Client closed connection
+[2544] 27 Mar 16:51:22.570 - Accepted 127.0.0.1:39228
+[2544] 27 Mar 16:51:22.570 - Accepted 127.0.0.1:39229
+[2544] 27 Mar 16:51:22.576 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.576 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.649 - Client closed connection
+[2544] 27 Mar 16:51:22.649 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:22.649 - Accepted 127.0.0.1:39230
+[2544] 27 Mar 16:51:22.662 * DB saved on disk
+[2544] 27 Mar 16:51:22.662 - Client closed connection
+[2544] 27 Mar 16:51:22.664 - Accepted 127.0.0.1:39231
+[2544] 27 Mar 16:51:22.664 - Accepted 127.0.0.1:39232
+[2544] 27 Mar 16:51:22.670 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.671 - Accepted connection to /tmp/redis.sock
+[2544] 27 Mar 16:51:22.740 - Client closed connection
+[2544] 27 Mar 16:51:22.740 - Error writing to client: Broken pipe
+[2544] 27 Mar 16:51:22.740 - Accepted 127.0.0.1:39233
+[2544] 27 Mar 16:51:22.748 * DB saved on disk
+[2544] 27 Mar 16:51:22.749 - Client closed connection
+[2544] 27 Mar 16:51:22.758 - Client closed connection
+[2544] 27 Mar 16:51:22.758 - Client closed connection
+[2544] 27 Mar 16:51:22.758 - Client closed connection
+[2544] 27 Mar 16:51:22.758 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.759 - Client closed connection
+[2544] 27 Mar 16:51:22.760 - Client closed connection
+[2544] 27 Mar 16:51:22.760 - Client closed connection
+[2544] 27 Mar 16:51:22.760 - Client closed connection
+[2544] 27 Mar 16:51:22.760 - Client closed connection
+[2544] 27 Mar 16:51:22.760 - Client closed connection
+[2544] 27 Mar 16:51:22.760 - Client closed connection
+[2544] 27 Mar 16:51:22.760 - Client closed connection
+[2544] 27 Mar 16:51:22.760 - Client closed connection
+[2544] 27 Mar 16:51:22.761 - Client closed connection
+[2544] 27 Mar 16:51:22.761 - Client closed connection
+[2544] 27 Mar 16:51:22.761 - Client closed connection
+[2544] 27 Mar 16:51:22.761 - Client closed connection
+[2544] 27 Mar 16:51:22.761 - Client closed connection
+[2544] 27 Mar 16:51:22.761 - Client closed connection
+[2544] 27 Mar 16:51:22.761 - Client closed connection
+[2544] 27 Mar 16:51:22.761 - Client closed connection
+[2544] 27 Mar 16:51:22.761 - Client closed connection
+[2544] 27 Mar 16:51:22.762 - Client closed connection
+[2544] 27 Mar 16:51:22.762 - Client closed connection
+[2544] 27 Mar 16:51:22.762 - Client closed connection
+[2544] 27 Mar 16:51:22.762 - Client closed connection
+[2544] 27 Mar 16:51:22.762 - Client closed connection
+[2544] 27 Mar 16:51:22.762 - Client closed connection
+[2544] 27 Mar 16:51:22.762 - Client closed connection
+[2544] 27 Mar 16:51:22.762 - Client closed connection
+[2544] 27 Mar 16:51:22.762 - Client closed connection
+[2544] 27 Mar 16:51:22.763 - Client closed connection
+[2544] 27 Mar 16:51:22.763 - Client closed connection
+[2544] 27 Mar 16:51:22.763 - Client closed connection
+[2544] 27 Mar 16:51:22.763 - Client closed connection
+[2544] 27 Mar 16:51:22.763 - Client closed connection
+[2544] 27 Mar 16:51:22.763 - Client closed connection
+[2544] 27 Mar 16:51:22.763 - Client closed connection
+[2544] 27 Mar 16:51:22.763 - Client closed connection
+[2544] 27 Mar 16:51:22.763 - Client closed connection
+[2544] 27 Mar 16:51:22.764 - Client closed connection
+[2544] 27 Mar 16:51:22.764 - Client closed connection
+[2544] 27 Mar 16:51:22.764 - Client closed connection
+[2544] 27 Mar 16:51:22.764 - Client closed connection
+[2544] 27 Mar 16:51:22.764 - Client closed connection
+[2544] 27 Mar 16:51:22.764 - Client closed connection
+[2544] 27 Mar 16:51:22.764 - Client closed connection
+[2544] 27 Mar 16:51:22.764 - Client closed connection
+[2544] 27 Mar 16:51:22.765 - Client closed connection
+[2544] 27 Mar 16:51:22.765 - Client closed connection
+[2544] 27 Mar 16:51:22.765 - Client closed connection
+[2544] 27 Mar 16:51:22.765 - Client closed connection
+[2544] 27 Mar 16:51:22.765 - Client closed connection
+[2544] 27 Mar 16:51:25.522 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:51:30.539 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:51:35.553 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:51:40.567 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:51:45.583 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:51:50.599 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:51:55.615 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:00.631 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:05.675 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:10.704 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:15.723 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:20.739 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:25.753 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:30.766 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:35.778 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:40.801 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:45.820 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:50.834 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:52:55.845 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:00.858 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:05.874 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:10.893 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:15.907 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:20.922 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:25.940 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:30.957 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:35.971 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:40.989 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:46.003 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:51.021 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:53:56.037 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:54:01.051 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:54:06.072 - 0 clients connected (0 slaves), 444392 bytes in use
+[2544] 27 Mar 16:54:11.092 - 0 clients connected (0 slaves), 444392 bytes in use
+[2670] 27 Mar 16:57:58.932 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.9.51 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 2670
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[2670] 27 Mar 16:57:58.933 # Server started, Redis version 2.9.51
+[2670] 27 Mar 16:57:58.933 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[2670] 27 Mar 16:57:58.933 * DB loaded from disk: 0.000 seconds
+[2670] 27 Mar 16:57:58.933 * The server is now ready to accept connections on port 6379
+[2670] 27 Mar 16:57:58.933 * The server is now ready to accept connections at /tmp/redis.sock
+[2670] 27 Mar 16:57:59.865 - Accepted 127.0.0.1:39234
+[2670] 27 Mar 16:57:59.865 - 1 clients connected (0 slaves), 465240 bytes in use
+[2670] 27 Mar 16:57:59.865 - Accepted 127.0.0.1:39235
+[2670] 27 Mar 16:57:59.902 - Reading from client: Connection reset by peer
+[2670] 27 Mar 16:57:59.902 - Client closed connection
+[2670] 27 Mar 16:57:59.904 - Accepted 127.0.0.1:39236
+[2670] 27 Mar 16:57:59.908 * DB saved on disk
+[2670] 27 Mar 16:57:59.910 - Client closed connection
+[2670] 27 Mar 16:57:59.915 - Accepted 127.0.0.1:39237
+[2670] 27 Mar 16:57:59.915 - Accepted 127.0.0.1:39238
+[2670] 27 Mar 16:57:59.936 - Reading from client: Connection reset by peer
+[2670] 27 Mar 16:57:59.936 - Client closed connection
+[2670] 27 Mar 16:57:59.937 - Accepted 127.0.0.1:39239
+[2670] 27 Mar 16:57:59.942 * DB saved on disk
+[2670] 27 Mar 16:57:59.943 - Client closed connection
+[2670] 27 Mar 16:57:59.945 - Accepted 127.0.0.1:39240
+[2670] 27 Mar 16:57:59.945 - Accepted 127.0.0.1:39241
+[2670] 27 Mar 16:58:00.005 - Reading from client: Connection reset by peer
+[2670] 27 Mar 16:58:00.005 - Client closed connection
+[2670] 27 Mar 16:58:00.006 - Accepted 127.0.0.1:39242
+[2670] 27 Mar 16:58:00.018 * DB saved on disk
+[2670] 27 Mar 16:58:00.019 - Client closed connection
+[2670] 27 Mar 16:58:00.027 - Accepted 127.0.0.1:39243
+[2670] 27 Mar 16:58:00.028 - Accepted 127.0.0.1:39244
+[2670] 27 Mar 16:58:00.038 - Client closed connection
+[2670] 27 Mar 16:58:00.038 - Client closed connection
+[2670] 27 Mar 16:58:00.039 - Accepted 127.0.0.1:39245
+[2670] 27 Mar 16:58:00.042 * DB saved on disk
+[2670] 27 Mar 16:58:00.043 - Client closed connection
+[2670] 27 Mar 16:58:00.045 - Accepted 127.0.0.1:39246
+[2670] 27 Mar 16:58:00.045 - Accepted 127.0.0.1:39247
+[2670] 27 Mar 16:58:00.062 - Client closed connection
+[2670] 27 Mar 16:58:00.063 - Client closed connection
+[2670] 27 Mar 16:58:00.065 - Accepted 127.0.0.1:39248
+[2670] 27 Mar 16:58:00.070 * DB saved on disk
+[2670] 27 Mar 16:58:00.071 - Client closed connection
+[2670] 27 Mar 16:58:00.079 - Accepted 127.0.0.1:39249
+[2670] 27 Mar 16:58:00.079 - Accepted 127.0.0.1:39250
+[2670] 27 Mar 16:58:01.444 - Client closed connection
+[2670] 27 Mar 16:58:01.444 - Client closed connection
+[2670] 27 Mar 16:58:01.445 - Accepted 127.0.0.1:39251
+[2670] 27 Mar 16:58:01.449 * DB saved on disk
+[2670] 27 Mar 16:58:01.450 - Client closed connection
+[2670] 27 Mar 16:58:01.453 - Accepted 127.0.0.1:39252
+[2670] 27 Mar 16:58:01.453 - Accepted 127.0.0.1:39253
+[2670] 27 Mar 16:58:02.169 - Client closed connection
+[2670] 27 Mar 16:58:02.169 - Client closed connection
+[2670] 27 Mar 16:58:02.170 - Accepted 127.0.0.1:39254
+[2670] 27 Mar 16:58:02.174 * DB saved on disk
+[2670] 27 Mar 16:58:02.175 - Client closed connection
+[2670] 27 Mar 16:58:02.178 - Accepted 127.0.0.1:39255
+[2670] 27 Mar 16:58:02.178 - Accepted 127.0.0.1:39256
+[2670] 27 Mar 16:58:02.188 - Reading from client: Connection reset by peer
+[2670] 27 Mar 16:58:02.188 - Error writing to client: Connection reset by peer
+[2670] 27 Mar 16:58:02.188 - Accepted 127.0.0.1:39257
+[2670] 27 Mar 16:58:02.198 * DB saved on disk
+[2670] 27 Mar 16:58:02.209 - Client closed connection
+[2670] 27 Mar 16:58:02.211 - Accepted 127.0.0.1:39258
+[2670] 27 Mar 16:58:02.211 - Accepted 127.0.0.1:39259
+[2670] 27 Mar 16:58:02.287 - Client closed connection
+[2670] 27 Mar 16:58:02.287 - Error writing to client: Connection reset by peer
+[2670] 27 Mar 16:58:02.287 - Accepted 127.0.0.1:39260
+[2670] 27 Mar 16:58:02.298 * DB saved on disk
+[2670] 27 Mar 16:58:02.302 - Client closed connection
+[2670] 27 Mar 16:58:02.309 - Accepted 127.0.0.1:39261
+[2670] 27 Mar 16:58:02.316 - Accepted 127.0.0.1:39262
+[2670] 27 Mar 16:58:02.380 - Reading from client: Connection reset by peer
+[2670] 27 Mar 16:58:02.380 - Error writing to client: Connection reset by peer
+[2670] 27 Mar 16:58:02.381 - Accepted 127.0.0.1:39263
+[2670] 27 Mar 16:58:02.386 * DB saved on disk
+[2670] 27 Mar 16:58:02.387 - Client closed connection
+[2670] 27 Mar 16:58:02.391 - Accepted 127.0.0.1:39264
+[2670] 27 Mar 16:58:02.391 - Accepted 127.0.0.1:39265
+[2670] 27 Mar 16:58:02.510 - Client closed connection
+[2670] 27 Mar 16:58:02.511 - Client closed connection
+[2670] 27 Mar 16:58:02.517 - Accepted 127.0.0.1:39266
+[2670] 27 Mar 16:58:02.519 * DB saved on disk
+[2670] 27 Mar 16:58:02.522 - Client closed connection
+[2670] 27 Mar 16:58:02.529 - Accepted 127.0.0.1:39267
+[2670] 27 Mar 16:58:02.529 - Accepted 127.0.0.1:39268
+[2670] 27 Mar 16:58:02.535 - Client closed connection
+[2670] 27 Mar 16:58:02.535 - Client closed connection
+[2670] 27 Mar 16:58:02.535 - Accepted 127.0.0.1:39269
+[2670] 27 Mar 16:58:02.538 * DB saved on disk
+[2670] 27 Mar 16:58:02.539 - Client closed connection
+[2670] 27 Mar 16:58:02.542 - Accepted 127.0.0.1:39270
+[2670] 27 Mar 16:58:02.542 - Accepted 127.0.0.1:39271
+[2670] 27 Mar 16:58:02.557 - Client closed connection
+[2670] 27 Mar 16:58:02.557 - Client closed connection
+[2670] 27 Mar 16:58:02.579 - Accepted 127.0.0.1:39272
+[2670] 27 Mar 16:58:02.602 * DB saved on disk
+[2670] 27 Mar 16:58:02.628 - Client closed connection
+[2670] 27 Mar 16:58:02.633 - Accepted 127.0.0.1:39273
+[2670] 27 Mar 16:58:02.633 - Accepted 127.0.0.1:39274
+[2670] 27 Mar 16:58:02.665 - Client closed connection
+[2670] 27 Mar 16:58:02.666 - Client closed connection
+[2670] 27 Mar 16:58:02.669 - Accepted 127.0.0.1:39275
+[2670] 27 Mar 16:58:02.686 * DB saved on disk
+[2670] 27 Mar 16:58:02.688 - Client closed connection
+[2670] 27 Mar 16:58:02.696 - Accepted 127.0.0.1:39276
+[2670] 27 Mar 16:58:02.696 - Accepted 127.0.0.1:39277
+[2670] 27 Mar 16:58:02.720 - Client closed connection
+[2670] 27 Mar 16:58:02.720 - Client closed connection
+[2670] 27 Mar 16:58:02.722 - Accepted 127.0.0.1:39278
+[2670] 27 Mar 16:58:02.725 * DB saved on disk
+[2670] 27 Mar 16:58:02.727 - Client closed connection
+[2670] 27 Mar 16:58:02.757 - Accepted 127.0.0.1:39279
+[2670] 27 Mar 16:58:02.758 - Accepted 127.0.0.1:39280
+[2670] 27 Mar 16:58:02.877 - Client closed connection
+[2670] 27 Mar 16:58:02.877 - Client closed connection
+[2670] 27 Mar 16:58:02.879 - Accepted 127.0.0.1:39281
+[2670] 27 Mar 16:58:02.881 * DB saved on disk
+[2670] 27 Mar 16:58:02.882 - Client closed connection
+[2670] 27 Mar 16:58:02.885 - Accepted 127.0.0.1:39282
+[2670] 27 Mar 16:58:02.887 - Accepted 127.0.0.1:39283
+[2670] 27 Mar 16:58:02.958 - Client closed connection
+[2670] 27 Mar 16:58:02.958 - Client closed connection
+[2670] 27 Mar 16:58:02.960 - Accepted 127.0.0.1:39284
+[2670] 27 Mar 16:58:02.962 * DB saved on disk
+[2670] 27 Mar 16:58:02.962 - Client closed connection
+[2670] 27 Mar 16:58:02.964 - Accepted 127.0.0.1:39285
+[2670] 27 Mar 16:58:02.964 - Accepted 127.0.0.1:39286
+[2670] 27 Mar 16:58:03.037 - Client closed connection
+[2670] 27 Mar 16:58:03.037 - Client closed connection
+[2670] 27 Mar 16:58:03.038 - Accepted 127.0.0.1:39287
+[2670] 27 Mar 16:58:03.042 * DB saved on disk
+[2670] 27 Mar 16:58:03.043 - Client closed connection
+[2670] 27 Mar 16:58:03.047 - Accepted 127.0.0.1:39288
+[2670] 27 Mar 16:58:03.047 - Accepted 127.0.0.1:39289
+[2670] 27 Mar 16:58:03.117 - Client closed connection
+[2670] 27 Mar 16:58:03.117 - Client closed connection
+[2670] 27 Mar 16:58:03.118 - Accepted 127.0.0.1:39290
+[2670] 27 Mar 16:58:03.121 * DB saved on disk
+[2670] 27 Mar 16:58:03.121 - Client closed connection
+[2670] 27 Mar 16:58:03.124 - Accepted 127.0.0.1:39291
+[2670] 27 Mar 16:58:03.124 - Accepted 127.0.0.1:39292
+[2670] 27 Mar 16:58:03.191 - Client closed connection
+[2670] 27 Mar 16:58:03.191 - Client closed connection
+[2670] 27 Mar 16:58:03.192 - Accepted 127.0.0.1:39293
+[2670] 27 Mar 16:58:03.196 * DB saved on disk
+[2670] 27 Mar 16:58:03.196 - Client closed connection
+[2670] 27 Mar 16:58:03.199 - Accepted 127.0.0.1:39294
+[2670] 27 Mar 16:58:03.199 - Accepted 127.0.0.1:39295
+[2670] 27 Mar 16:58:03.254 - Client closed connection
+[2670] 27 Mar 16:58:03.254 - Client closed connection
+[2670] 27 Mar 16:58:03.255 - Accepted 127.0.0.1:39296
+[2670] 27 Mar 16:58:03.259 * DB saved on disk
+[2670] 27 Mar 16:58:03.260 - Client closed connection
+[2670] 27 Mar 16:58:03.264 - Accepted 127.0.0.1:39297
+[2670] 27 Mar 16:58:03.264 - Accepted 127.0.0.1:39298
+[2670] 27 Mar 16:58:03.330 - Client closed connection
+[2670] 27 Mar 16:58:03.330 - Client closed connection
+[2670] 27 Mar 16:58:03.331 - Accepted 127.0.0.1:39299
+[2670] 27 Mar 16:58:03.333 * DB saved on disk
+[2670] 27 Mar 16:58:03.334 - Client closed connection
+[2670] 27 Mar 16:58:03.335 - Accepted 127.0.0.1:39300
+[2670] 27 Mar 16:58:03.336 - Accepted 127.0.0.1:39301
+[2670] 27 Mar 16:58:03.391 - Client closed connection
+[2670] 27 Mar 16:58:03.391 - Client closed connection
+[2670] 27 Mar 16:58:03.392 - Accepted 127.0.0.1:39302
+[2670] 27 Mar 16:58:03.394 * DB saved on disk
+[2670] 27 Mar 16:58:03.395 - Client closed connection
+[2670] 27 Mar 16:58:03.397 - Accepted 127.0.0.1:39303
+[2670] 27 Mar 16:58:03.397 - Accepted 127.0.0.1:39304
+[2670] 27 Mar 16:58:03.463 - Client closed connection
+[2670] 27 Mar 16:58:03.463 - Client closed connection
+[2670] 27 Mar 16:58:03.464 - Accepted 127.0.0.1:39305
+[2670] 27 Mar 16:58:03.466 * DB saved on disk
+[2670] 27 Mar 16:58:03.466 - Client closed connection
+[2670] 27 Mar 16:58:03.469 - Accepted 127.0.0.1:39306
+[2670] 27 Mar 16:58:03.469 - Accepted 127.0.0.1:39307
+[2670] 27 Mar 16:58:03.538 - Client closed connection
+[2670] 27 Mar 16:58:03.538 - Client closed connection
+[2670] 27 Mar 16:58:03.539 - Accepted 127.0.0.1:39308
+[2670] 27 Mar 16:58:03.541 * DB saved on disk
+[2670] 27 Mar 16:58:03.542 - Client closed connection
+[2670] 27 Mar 16:58:03.547 - Accepted 127.0.0.1:39309
+[2670] 27 Mar 16:58:03.547 - Accepted 127.0.0.1:39310
+[2670] 27 Mar 16:58:03.612 - Client closed connection
+[2670] 27 Mar 16:58:03.612 - Client closed connection
+[2670] 27 Mar 16:58:03.613 - Accepted 127.0.0.1:39311
+[2670] 27 Mar 16:58:03.615 * DB saved on disk
+[2670] 27 Mar 16:58:03.615 - Client closed connection
+[2670] 27 Mar 16:58:03.616 - Accepted 127.0.0.1:39312
+[2670] 27 Mar 16:58:03.616 - Accepted 127.0.0.1:39313
+[2670] 27 Mar 16:58:03.683 - Client closed connection
+[2670] 27 Mar 16:58:03.684 - Client closed connection
+[2670] 27 Mar 16:58:03.684 - Accepted 127.0.0.1:39314
+[2670] 27 Mar 16:58:03.692 * DB saved on disk
+[2670] 27 Mar 16:58:03.692 - Client closed connection
+[2670] 27 Mar 16:58:03.695 - Accepted 127.0.0.1:39315
+[2670] 27 Mar 16:58:03.695 - Accepted 127.0.0.1:39316
+[2670] 27 Mar 16:58:03.760 - Client closed connection
+[2670] 27 Mar 16:58:03.760 - Client closed connection
+[2670] 27 Mar 16:58:03.760 - Accepted 127.0.0.1:39317
+[2670] 27 Mar 16:58:03.763 * DB saved on disk
+[2670] 27 Mar 16:58:03.763 - Client closed connection
+[2670] 27 Mar 16:58:03.767 - Accepted 127.0.0.1:39318
+[2670] 27 Mar 16:58:03.767 - Accepted 127.0.0.1:39319
+[2670] 27 Mar 16:58:03.835 - Client closed connection
+[2670] 27 Mar 16:58:03.835 - Client closed connection
+[2670] 27 Mar 16:58:03.836 - Accepted 127.0.0.1:39320
+[2670] 27 Mar 16:58:03.839 * DB saved on disk
+[2670] 27 Mar 16:58:03.839 - Client closed connection
+[2670] 27 Mar 16:58:03.842 - Accepted 127.0.0.1:39321
+[2670] 27 Mar 16:58:03.842 - Accepted 127.0.0.1:39322
+[2670] 27 Mar 16:58:03.848 - Accepted 127.0.0.1:39323
+[2670] 27 Mar 16:58:03.848 - Accepted 127.0.0.1:39324
+[2670] 27 Mar 16:58:03.848 - Accepted 127.0.0.1:39325
+[2670] 27 Mar 16:58:03.848 - Accepted 127.0.0.1:39326
+[2670] 27 Mar 16:58:03.919 - Client closed connection
+[2670] 27 Mar 16:58:03.919 - Client closed connection
+[2670] 27 Mar 16:58:03.920 - Accepted 127.0.0.1:39327
+[2670] 27 Mar 16:58:03.924 * DB saved on disk
+[2670] 27 Mar 16:58:03.925 - Client closed connection
+[2670] 27 Mar 16:58:03.928 - Accepted 127.0.0.1:39328
+[2670] 27 Mar 16:58:03.928 - Accepted 127.0.0.1:39329
+[2670] 27 Mar 16:58:03.933 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:03.935 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:03.955 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:03.955 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:03.955 - Accepted 127.0.0.1:39330
+[2670] 27 Mar 16:58:03.959 * DB saved on disk
+[2670] 27 Mar 16:58:03.960 - Client closed connection
+[2670] 27 Mar 16:58:03.965 - Accepted 127.0.0.1:39331
+[2670] 27 Mar 16:58:03.965 - Accepted 127.0.0.1:39332
+[2670] 27 Mar 16:58:03.977 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:03.977 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:03.992 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:03.992 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:03.992 - Accepted 127.0.0.1:39333
+[2670] 27 Mar 16:58:03.995 * DB saved on disk
+[2670] 27 Mar 16:58:03.996 - Client closed connection
+[2670] 27 Mar 16:58:03.998 - Accepted 127.0.0.1:39334
+[2670] 27 Mar 16:58:03.999 - Accepted 127.0.0.1:39335
+[2670] 27 Mar 16:58:04.003 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:04.003 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:04.017 - Reading from client: Connection reset by peer
+[2670] 27 Mar 16:58:04.018 - Client closed connection
+[2670] 27 Mar 16:58:04.018 - Accepted 127.0.0.1:39336
+[2670] 27 Mar 16:58:04.021 * DB saved on disk
+[2670] 27 Mar 16:58:04.022 - Client closed connection
+[2670] 27 Mar 16:58:04.026 - Accepted 127.0.0.1:39337
+[2670] 27 Mar 16:58:04.026 - Accepted 127.0.0.1:39338
+[2670] 27 Mar 16:58:04.030 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:04.030 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:04.038 - Client closed connection
+[2670] 27 Mar 16:58:04.038 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:04.038 - Accepted 127.0.0.1:39339
+[2670] 27 Mar 16:58:04.040 * DB saved on disk
+[2670] 27 Mar 16:58:04.041 - Client closed connection
+[2670] 27 Mar 16:58:04.042 - Accepted 127.0.0.1:39340
+[2670] 27 Mar 16:58:04.043 - Accepted 127.0.0.1:39341
+[2670] 27 Mar 16:58:04.049 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:04.049 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:04.057 - Client closed connection
+[2670] 27 Mar 16:58:04.057 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:04.057 - Accepted 127.0.0.1:39342
+[2670] 27 Mar 16:58:04.059 * DB saved on disk
+[2670] 27 Mar 16:58:04.060 - Client closed connection
+[2670] 27 Mar 16:58:04.062 - Accepted 127.0.0.1:39343
+[2670] 27 Mar 16:58:04.062 - Accepted 127.0.0.1:39344
+[2670] 27 Mar 16:58:04.069 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:04.069 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:04.884 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[2670] 27 Mar 16:58:04.884 - 18 clients connected (0 slaves), 896992 bytes in use
+[2670] 27 Mar 16:58:05.429 - Client closed connection
+[2670] 27 Mar 16:58:05.429 - Client closed connection
+[2670] 27 Mar 16:58:05.430 - Accepted 127.0.0.1:39345
+[2670] 27 Mar 16:58:05.433 * DB saved on disk
+[2670] 27 Mar 16:58:05.433 - Client closed connection
+[2670] 27 Mar 16:58:05.434 - Accepted 127.0.0.1:39346
+[2670] 27 Mar 16:58:05.435 - Accepted 127.0.0.1:39347
+[2670] 27 Mar 16:58:05.438 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:05.439 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.153 - Client closed connection
+[2670] 27 Mar 16:58:06.154 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.154 - Accepted 127.0.0.1:39348
+[2670] 27 Mar 16:58:06.156 * DB saved on disk
+[2670] 27 Mar 16:58:06.156 - Client closed connection
+[2670] 27 Mar 16:58:06.161 - Accepted 127.0.0.1:39349
+[2670] 27 Mar 16:58:06.161 - Accepted 127.0.0.1:39350
+[2670] 27 Mar 16:58:06.166 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.167 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.177 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.177 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.177 - Accepted 127.0.0.1:39351
+[2670] 27 Mar 16:58:06.179 * DB saved on disk
+[2670] 27 Mar 16:58:06.180 - Client closed connection
+[2670] 27 Mar 16:58:06.182 - Accepted 127.0.0.1:39352
+[2670] 27 Mar 16:58:06.182 - Accepted 127.0.0.1:39353
+[2670] 27 Mar 16:58:06.187 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.187 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.194 - Client closed connection
+[2670] 27 Mar 16:58:06.194 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.194 - Accepted 127.0.0.1:39354
+[2670] 27 Mar 16:58:06.196 * DB saved on disk
+[2670] 27 Mar 16:58:06.197 - Client closed connection
+[2670] 27 Mar 16:58:06.198 - Accepted 127.0.0.1:39355
+[2670] 27 Mar 16:58:06.198 - Accepted 127.0.0.1:39356
+[2670] 27 Mar 16:58:06.202 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.202 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.212 - Reading from client: Connection reset by peer
+[2670] 27 Mar 16:58:06.212 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.213 - Accepted 127.0.0.1:39357
+[2670] 27 Mar 16:58:06.215 * DB saved on disk
+[2670] 27 Mar 16:58:06.216 - Client closed connection
+[2670] 27 Mar 16:58:06.217 - Accepted 127.0.0.1:39358
+[2670] 27 Mar 16:58:06.217 - Accepted 127.0.0.1:39359
+[2670] 27 Mar 16:58:06.221 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.221 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.262 - Client closed connection
+[2670] 27 Mar 16:58:06.262 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.263 - Accepted 127.0.0.1:39360
+[2670] 27 Mar 16:58:06.264 * DB saved on disk
+[2670] 27 Mar 16:58:06.264 - Client closed connection
+[2670] 27 Mar 16:58:06.268 - Accepted 127.0.0.1:39361
+[2670] 27 Mar 16:58:06.268 - Accepted 127.0.0.1:39362
+[2670] 27 Mar 16:58:06.272 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.272 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.277 - Client closed connection
+[2670] 27 Mar 16:58:06.277 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.278 - Accepted 127.0.0.1:39363
+[2670] 27 Mar 16:58:06.279 * DB saved on disk
+[2670] 27 Mar 16:58:06.279 - Client closed connection
+[2670] 27 Mar 16:58:06.282 - Accepted 127.0.0.1:39364
+[2670] 27 Mar 16:58:06.282 - Accepted 127.0.0.1:39365
+[2670] 27 Mar 16:58:06.285 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.285 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.292 - Client closed connection
+[2670] 27 Mar 16:58:06.292 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.293 - Accepted 127.0.0.1:39366
+[2670] 27 Mar 16:58:06.295 * DB saved on disk
+[2670] 27 Mar 16:58:06.295 - Client closed connection
+[2670] 27 Mar 16:58:06.299 - Accepted 127.0.0.1:39367
+[2670] 27 Mar 16:58:06.299 - Accepted 127.0.0.1:39368
+[2670] 27 Mar 16:58:06.302 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.302 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.309 - Client closed connection
+[2670] 27 Mar 16:58:06.310 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.310 - Accepted 127.0.0.1:39369
+[2670] 27 Mar 16:58:06.311 * DB saved on disk
+[2670] 27 Mar 16:58:06.313 - Client closed connection
+[2670] 27 Mar 16:58:06.315 - Accepted 127.0.0.1:39370
+[2670] 27 Mar 16:58:06.315 - Accepted 127.0.0.1:39371
+[2670] 27 Mar 16:58:06.319 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.319 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.328 - Client closed connection
+[2670] 27 Mar 16:58:06.328 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.328 - Accepted 127.0.0.1:39372
+[2670] 27 Mar 16:58:06.330 * DB saved on disk
+[2670] 27 Mar 16:58:06.330 - Client closed connection
+[2670] 27 Mar 16:58:06.333 - Accepted 127.0.0.1:39373
+[2670] 27 Mar 16:58:06.333 - Accepted 127.0.0.1:39374
+[2670] 27 Mar 16:58:06.337 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.337 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.398 - Client closed connection
+[2670] 27 Mar 16:58:06.398 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.399 - Accepted 127.0.0.1:39375
+[2670] 27 Mar 16:58:06.401 * DB saved on disk
+[2670] 27 Mar 16:58:06.401 - Client closed connection
+[2670] 27 Mar 16:58:06.403 - Accepted 127.0.0.1:39376
+[2670] 27 Mar 16:58:06.403 - Accepted 127.0.0.1:39377
+[2670] 27 Mar 16:58:06.407 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.407 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.466 - Client closed connection
+[2670] 27 Mar 16:58:06.466 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.467 - Accepted 127.0.0.1:39378
+[2670] 27 Mar 16:58:06.469 * DB saved on disk
+[2670] 27 Mar 16:58:06.469 - Client closed connection
+[2670] 27 Mar 16:58:06.471 - Accepted 127.0.0.1:39379
+[2670] 27 Mar 16:58:06.471 - Accepted 127.0.0.1:39380
+[2670] 27 Mar 16:58:06.476 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.476 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.535 - Client closed connection
+[2670] 27 Mar 16:58:06.535 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.536 - Accepted 127.0.0.1:39381
+[2670] 27 Mar 16:58:06.541 * DB saved on disk
+[2670] 27 Mar 16:58:06.542 - Client closed connection
+[2670] 27 Mar 16:58:06.544 - Accepted 127.0.0.1:39382
+[2670] 27 Mar 16:58:06.544 - Accepted 127.0.0.1:39383
+[2670] 27 Mar 16:58:06.549 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.549 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.611 - Client closed connection
+[2670] 27 Mar 16:58:06.612 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.612 - Accepted 127.0.0.1:39384
+[2670] 27 Mar 16:58:06.613 * DB saved on disk
+[2670] 27 Mar 16:58:06.614 - Client closed connection
+[2670] 27 Mar 16:58:06.615 - Accepted 127.0.0.1:39385
+[2670] 27 Mar 16:58:06.615 - Accepted 127.0.0.1:39386
+[2670] 27 Mar 16:58:06.620 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.621 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:06.683 - Client closed connection
+[2670] 27 Mar 16:58:06.683 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:06.684 - Accepted 127.0.0.1:39387
+[2670] 27 Mar 16:58:07.087 * DB saved on disk
+[2670] 27 Mar 16:58:07.090 - Client closed connection
+[2670] 27 Mar 16:58:07.092 - Accepted 127.0.0.1:39388
+[2670] 27 Mar 16:58:07.092 - Accepted 127.0.0.1:39389
+[2670] 27 Mar 16:58:07.099 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.099 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.237 - Client closed connection
+[2670] 27 Mar 16:58:07.237 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:07.237 - Accepted 127.0.0.1:39390
+[2670] 27 Mar 16:58:07.252 * DB saved on disk
+[2670] 27 Mar 16:58:07.254 - Client closed connection
+[2670] 27 Mar 16:58:07.257 - Accepted 127.0.0.1:39391
+[2670] 27 Mar 16:58:07.257 - Accepted 127.0.0.1:39392
+[2670] 27 Mar 16:58:07.268 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.268 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.363 - Client closed connection
+[2670] 27 Mar 16:58:07.364 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:07.364 - Accepted 127.0.0.1:39393
+[2670] 27 Mar 16:58:07.377 * DB saved on disk
+[2670] 27 Mar 16:58:07.380 - Client closed connection
+[2670] 27 Mar 16:58:07.381 - Accepted 127.0.0.1:39394
+[2670] 27 Mar 16:58:07.381 - Accepted 127.0.0.1:39395
+[2670] 27 Mar 16:58:07.393 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.393 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.468 - Client closed connection
+[2670] 27 Mar 16:58:07.468 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:07.468 - Accepted 127.0.0.1:39396
+[2670] 27 Mar 16:58:07.476 * DB saved on disk
+[2670] 27 Mar 16:58:07.478 - Client closed connection
+[2670] 27 Mar 16:58:07.493 - Accepted 127.0.0.1:39397
+[2670] 27 Mar 16:58:07.493 - Accepted 127.0.0.1:39398
+[2670] 27 Mar 16:58:07.499 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.499 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.624 - Client closed connection
+[2670] 27 Mar 16:58:07.624 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:07.630 - Accepted 127.0.0.1:39399
+[2670] 27 Mar 16:58:07.637 * DB saved on disk
+[2670] 27 Mar 16:58:07.646 - Client closed connection
+[2670] 27 Mar 16:58:07.647 - Accepted 127.0.0.1:39400
+[2670] 27 Mar 16:58:07.647 - Accepted 127.0.0.1:39401
+[2670] 27 Mar 16:58:07.664 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.664 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.742 - Client closed connection
+[2670] 27 Mar 16:58:07.742 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:07.743 - Accepted 127.0.0.1:39402
+[2670] 27 Mar 16:58:07.751 * DB saved on disk
+[2670] 27 Mar 16:58:07.767 - Client closed connection
+[2670] 27 Mar 16:58:07.768 - Accepted 127.0.0.1:39403
+[2670] 27 Mar 16:58:07.768 - Accepted 127.0.0.1:39404
+[2670] 27 Mar 16:58:07.773 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.774 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.851 - Client closed connection
+[2670] 27 Mar 16:58:07.852 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:07.860 - Accepted 127.0.0.1:39405
+[2670] 27 Mar 16:58:07.876 * DB saved on disk
+[2670] 27 Mar 16:58:07.878 - Client closed connection
+[2670] 27 Mar 16:58:07.881 - Accepted 127.0.0.1:39406
+[2670] 27 Mar 16:58:07.881 - Accepted 127.0.0.1:39407
+[2670] 27 Mar 16:58:07.889 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.889 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:07.988 - Client closed connection
+[2670] 27 Mar 16:58:07.988 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:07.989 - Accepted 127.0.0.1:39408
+[2670] 27 Mar 16:58:08.000 * DB saved on disk
+[2670] 27 Mar 16:58:08.005 - Client closed connection
+[2670] 27 Mar 16:58:08.006 - Accepted 127.0.0.1:39409
+[2670] 27 Mar 16:58:08.006 - Accepted 127.0.0.1:39410
+[2670] 27 Mar 16:58:08.017 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:08.017 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:08.101 - Client closed connection
+[2670] 27 Mar 16:58:08.101 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:08.102 - Accepted 127.0.0.1:39411
+[2670] 27 Mar 16:58:08.107 * DB saved on disk
+[2670] 27 Mar 16:58:08.109 - Client closed connection
+[2670] 27 Mar 16:58:08.112 - Accepted 127.0.0.1:39412
+[2670] 27 Mar 16:58:08.112 - Accepted 127.0.0.1:39413
+[2670] 27 Mar 16:58:08.125 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:08.125 - Accepted connection to /tmp/redis.sock
+[2670] 27 Mar 16:58:08.236 - Client closed connection
+[2670] 27 Mar 16:58:08.237 - Error writing to client: Broken pipe
+[2670] 27 Mar 16:58:08.237 - Accepted 127.0.0.1:39414
+[2670] 27 Mar 16:58:08.242 * DB saved on disk
+[2670] 27 Mar 16:58:08.247 - Client closed connection
+[2670] 27 Mar 16:58:08.259 - Client closed connection
+[2670] 27 Mar 16:58:08.259 - Client closed connection
+[2670] 27 Mar 16:58:08.259 - Client closed connection
+[2670] 27 Mar 16:58:08.259 - Client closed connection
+[2670] 27 Mar 16:58:08.259 - Client closed connection
+[2670] 27 Mar 16:58:08.259 - Client closed connection
+[2670] 27 Mar 16:58:08.259 - Client closed connection
+[2670] 27 Mar 16:58:08.259 - Client closed connection
+[2670] 27 Mar 16:58:08.260 - Client closed connection
+[2670] 27 Mar 16:58:08.260 - Client closed connection
+[2670] 27 Mar 16:58:08.260 - Client closed connection
+[2670] 27 Mar 16:58:08.260 - Client closed connection
+[2670] 27 Mar 16:58:08.260 - Client closed connection
+[2670] 27 Mar 16:58:08.260 - Client closed connection
+[2670] 27 Mar 16:58:08.260 - Client closed connection
+[2670] 27 Mar 16:58:08.260 - Client closed connection
+[2670] 27 Mar 16:58:08.260 - Client closed connection
+[2670] 27 Mar 16:58:08.261 - Client closed connection
+[2670] 27 Mar 16:58:08.261 - Client closed connection
+[2670] 27 Mar 16:58:08.261 - Client closed connection
+[2670] 27 Mar 16:58:08.261 - Client closed connection
+[2670] 27 Mar 16:58:08.261 - Client closed connection
+[2670] 27 Mar 16:58:08.261 - Client closed connection
+[2670] 27 Mar 16:58:08.261 - Client closed connection
+[2670] 27 Mar 16:58:08.261 - Client closed connection
+[2670] 27 Mar 16:58:08.292 - Client closed connection
+[2670] 27 Mar 16:58:08.292 - Client closed connection
+[2670] 27 Mar 16:58:08.292 - Client closed connection
+[2670] 27 Mar 16:58:08.292 - Client closed connection
+[2670] 27 Mar 16:58:08.292 - Client closed connection
+[2670] 27 Mar 16:58:08.292 - Client closed connection
+[2670] 27 Mar 16:58:08.292 - Client closed connection
+[2670] 27 Mar 16:58:08.293 - Client closed connection
+[2670] 27 Mar 16:58:08.293 - Client closed connection
+[2670] 27 Mar 16:58:08.296 - Client closed connection
+[2670] 27 Mar 16:58:08.297 - Client closed connection
+[2670] 27 Mar 16:58:08.297 - Client closed connection
+[2670] 27 Mar 16:58:08.297 - Client closed connection
+[2670] 27 Mar 16:58:08.297 - Client closed connection
+[2670] 27 Mar 16:58:08.297 - Client closed connection
+[2670] 27 Mar 16:58:08.297 - Client closed connection
+[2670] 27 Mar 16:58:08.297 - Client closed connection
+[2670] 27 Mar 16:58:08.298 - Client closed connection
+[2670] 27 Mar 16:58:08.298 - Client closed connection
+[2670] 27 Mar 16:58:08.298 - Client closed connection
+[2670] 27 Mar 16:58:08.298 - Client closed connection
+[2670] 27 Mar 16:58:08.301 - Client closed connection
+[2670] 27 Mar 16:58:08.301 - Client closed connection
+[2670] 27 Mar 16:58:08.301 - Client closed connection
+[2670] 27 Mar 16:58:08.301 - Client closed connection
+[2670] 27 Mar 16:58:08.301 - Client closed connection
+[2670] 27 Mar 16:58:08.301 - Client closed connection
+[2670] 27 Mar 16:58:08.301 - Client closed connection
+[2670] 27 Mar 16:58:08.302 - Client closed connection
+[2670] 27 Mar 16:58:08.302 - Client closed connection
+[2670] 27 Mar 16:58:08.302 - Client closed connection
+[2670] 27 Mar 16:58:08.302 - Client closed connection
+[2670] 27 Mar 16:58:08.302 - Client closed connection
+[2670] 27 Mar 16:58:08.302 - Client closed connection
+[2670] 27 Mar 16:58:08.302 - Client closed connection
+[2670] 27 Mar 16:58:08.302 - Client closed connection
+[2670] 27 Mar 16:58:08.306 - Client closed connection
+[2670] 27 Mar 16:58:10.326 - 0 clients connected (0 slaves), 444272 bytes in use
+[2670] 27 Mar 16:58:15.344 - 0 clients connected (0 slaves), 444272 bytes in use
+[2670] 27 Mar 16:58:20.359 - 0 clients connected (0 slaves), 444272 bytes in use
+[2695] 27 Mar 16:58:25.300 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.9.51 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 2695
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[2695] 27 Mar 16:58:25.302 # Server started, Redis version 2.9.51
+[2695] 27 Mar 16:58:25.302 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[2695] 27 Mar 16:58:25.302 * DB loaded from disk: 0.000 seconds
+[2695] 27 Mar 16:58:25.302 * The server is now ready to accept connections on port 6379
+[2695] 27 Mar 16:58:25.302 * The server is now ready to accept connections at /tmp/redis.sock
+[2695] 27 Mar 16:58:25.302 - 0 clients connected (0 slaves), 444376 bytes in use
+[2695] 27 Mar 16:58:26.174 - Accepted 127.0.0.1:39415
+[2695] 27 Mar 16:58:26.174 - Accepted 127.0.0.1:39416
+[2695] 27 Mar 16:58:26.204 - Reading from client: Connection reset by peer
+[2695] 27 Mar 16:58:26.205 - Reading from client: Connection reset by peer
+[2695] 27 Mar 16:58:26.225 - Accepted 127.0.0.1:39417
+[2695] 27 Mar 16:58:26.232 * DB saved on disk
+[2695] 27 Mar 16:58:26.236 - Client closed connection
+[2695] 27 Mar 16:58:26.236 - Accepted 127.0.0.1:39418
+[2695] 27 Mar 16:58:26.236 - Accepted 127.0.0.1:39419
+[2695] 27 Mar 16:58:26.271 - Accepted 127.0.0.1:39420
+[2695] 27 Mar 16:58:26.272 - Client closed connection
+[2695] 27 Mar 16:58:26.272 - Client closed connection
+[2695] 27 Mar 16:58:26.286 * DB saved on disk
+[2695] 27 Mar 16:58:26.291 - Client closed connection
+[2695] 27 Mar 16:58:26.292 - Accepted 127.0.0.1:39421
+[2695] 27 Mar 16:58:26.292 - Accepted 127.0.0.1:39422
+[2695] 27 Mar 16:58:26.318 - Reading from client: Connection reset by peer
+[2695] 27 Mar 16:58:26.318 - Client closed connection
+[2695] 27 Mar 16:58:26.319 - Accepted 127.0.0.1:39423
+[2695] 27 Mar 16:58:26.321 * DB saved on disk
+[2695] 27 Mar 16:58:26.321 - Client closed connection
+[2695] 27 Mar 16:58:26.326 - Accepted 127.0.0.1:39424
+[2695] 27 Mar 16:58:26.326 - Accepted 127.0.0.1:39425
+[2695] 27 Mar 16:58:26.355 - Client closed connection
+[2695] 27 Mar 16:58:26.356 - Client closed connection
+[2695] 27 Mar 16:58:26.358 - Accepted 127.0.0.1:39426
+[2695] 27 Mar 16:58:26.360 * DB saved on disk
+[2695] 27 Mar 16:58:26.361 - Client closed connection
+[2695] 27 Mar 16:58:26.363 - Accepted 127.0.0.1:39427
+[2695] 27 Mar 16:58:26.363 - Accepted 127.0.0.1:39428
+[2695] 27 Mar 16:58:26.372 - Client closed connection
+[2695] 27 Mar 16:58:26.372 - Client closed connection
+[2695] 27 Mar 16:58:26.373 - Accepted 127.0.0.1:39429
+[2695] 27 Mar 16:58:26.375 * DB saved on disk
+[2695] 27 Mar 16:58:26.376 - Client closed connection
+[2695] 27 Mar 16:58:26.379 - Accepted 127.0.0.1:39430
+[2695] 27 Mar 16:58:26.379 - Accepted 127.0.0.1:39431
+[2695] 27 Mar 16:58:27.742 - Client closed connection
+[2695] 27 Mar 16:58:27.742 - Client closed connection
+[2695] 27 Mar 16:58:27.743 - Accepted 127.0.0.1:39432
+[2695] 27 Mar 16:58:27.747 * DB saved on disk
+[2695] 27 Mar 16:58:27.747 - Client closed connection
+[2695] 27 Mar 16:58:27.750 - Accepted 127.0.0.1:39433
+[2695] 27 Mar 16:58:27.750 - Accepted 127.0.0.1:39434
+[2695] 27 Mar 16:58:28.467 - Client closed connection
+[2695] 27 Mar 16:58:28.468 - Client closed connection
+[2695] 27 Mar 16:58:28.468 - Accepted 127.0.0.1:39435
+[2695] 27 Mar 16:58:28.470 * DB saved on disk
+[2695] 27 Mar 16:58:28.471 - Client closed connection
+[2695] 27 Mar 16:58:28.474 - Accepted 127.0.0.1:39436
+[2695] 27 Mar 16:58:28.474 - Accepted 127.0.0.1:39437
+[2695] 27 Mar 16:58:28.483 - Client closed connection
+[2695] 27 Mar 16:58:28.483 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:28.484 - Accepted 127.0.0.1:39438
+[2695] 27 Mar 16:58:28.486 * DB saved on disk
+[2695] 27 Mar 16:58:28.486 - Client closed connection
+[2695] 27 Mar 16:58:28.488 - Accepted 127.0.0.1:39439
+[2695] 27 Mar 16:58:28.489 - Accepted 127.0.0.1:39440
+[2695] 27 Mar 16:58:28.497 - Client closed connection
+[2695] 27 Mar 16:58:28.497 - Client closed connection
+[2695] 27 Mar 16:58:28.498 - Accepted 127.0.0.1:39441
+[2695] 27 Mar 16:58:28.499 * DB saved on disk
+[2695] 27 Mar 16:58:28.500 - Client closed connection
+[2695] 27 Mar 16:58:28.503 - Accepted 127.0.0.1:39442
+[2695] 27 Mar 16:58:28.503 - Accepted 127.0.0.1:39443
+[2695] 27 Mar 16:58:28.514 - Client closed connection
+[2695] 27 Mar 16:58:28.514 - Client closed connection
+[2695] 27 Mar 16:58:28.514 - Accepted 127.0.0.1:39444
+[2695] 27 Mar 16:58:28.517 * DB saved on disk
+[2695] 27 Mar 16:58:28.518 - Client closed connection
+[2695] 27 Mar 16:58:28.521 - Accepted 127.0.0.1:39445
+[2695] 27 Mar 16:58:28.521 - Accepted 127.0.0.1:39446
+[2695] 27 Mar 16:58:28.608 - Client closed connection
+[2695] 27 Mar 16:58:28.609 - Client closed connection
+[2695] 27 Mar 16:58:28.610 - Accepted 127.0.0.1:39447
+[2695] 27 Mar 16:58:28.612 * DB saved on disk
+[2695] 27 Mar 16:58:28.614 - Client closed connection
+[2695] 27 Mar 16:58:28.622 - Accepted 127.0.0.1:39448
+[2695] 27 Mar 16:58:28.623 - Accepted 127.0.0.1:39449
+[2695] 27 Mar 16:58:28.645 - Client closed connection
+[2695] 27 Mar 16:58:28.645 - Client closed connection
+[2695] 27 Mar 16:58:28.647 - Accepted 127.0.0.1:39450
+[2695] 27 Mar 16:58:28.650 * DB saved on disk
+[2695] 27 Mar 16:58:28.655 - Client closed connection
+[2695] 27 Mar 16:58:28.658 - Accepted 127.0.0.1:39451
+[2695] 27 Mar 16:58:28.658 - Accepted 127.0.0.1:39452
+[2695] 27 Mar 16:58:28.675 - Client closed connection
+[2695] 27 Mar 16:58:28.676 - Client closed connection
+[2695] 27 Mar 16:58:28.678 - Accepted 127.0.0.1:39453
+[2695] 27 Mar 16:58:28.680 * DB saved on disk
+[2695] 27 Mar 16:58:28.681 - Client closed connection
+[2695] 27 Mar 16:58:28.684 - Accepted 127.0.0.1:39454
+[2695] 27 Mar 16:58:28.684 - Accepted 127.0.0.1:39455
+[2695] 27 Mar 16:58:28.694 - Client closed connection
+[2695] 27 Mar 16:58:28.695 - Client closed connection
+[2695] 27 Mar 16:58:28.695 - Accepted 127.0.0.1:39456
+[2695] 27 Mar 16:58:28.697 * DB saved on disk
+[2695] 27 Mar 16:58:28.698 - Client closed connection
+[2695] 27 Mar 16:58:28.699 - Accepted 127.0.0.1:39457
+[2695] 27 Mar 16:58:28.700 - Accepted 127.0.0.1:39458
+[2695] 27 Mar 16:58:28.713 - Client closed connection
+[2695] 27 Mar 16:58:28.713 - Client closed connection
+[2695] 27 Mar 16:58:28.715 - Accepted 127.0.0.1:39459
+[2695] 27 Mar 16:58:28.718 * DB saved on disk
+[2695] 27 Mar 16:58:28.719 - Client closed connection
+[2695] 27 Mar 16:58:28.723 - Accepted 127.0.0.1:39460
+[2695] 27 Mar 16:58:28.723 - Accepted 127.0.0.1:39461
+[2695] 27 Mar 16:58:28.790 - Client closed connection
+[2695] 27 Mar 16:58:28.790 - Client closed connection
+[2695] 27 Mar 16:58:28.791 - Accepted 127.0.0.1:39462
+[2695] 27 Mar 16:58:28.793 * DB saved on disk
+[2695] 27 Mar 16:58:28.793 - Client closed connection
+[2695] 27 Mar 16:58:28.795 - Accepted 127.0.0.1:39463
+[2695] 27 Mar 16:58:28.795 - Accepted 127.0.0.1:39464
+[2695] 27 Mar 16:58:28.848 - Client closed connection
+[2695] 27 Mar 16:58:28.849 - Client closed connection
+[2695] 27 Mar 16:58:28.851 - Accepted 127.0.0.1:39465
+[2695] 27 Mar 16:58:28.853 * DB saved on disk
+[2695] 27 Mar 16:58:28.854 - Client closed connection
+[2695] 27 Mar 16:58:28.856 - Accepted 127.0.0.1:39466
+[2695] 27 Mar 16:58:28.856 - Accepted 127.0.0.1:39467
+[2695] 27 Mar 16:58:28.921 - Client closed connection
+[2695] 27 Mar 16:58:28.921 - Client closed connection
+[2695] 27 Mar 16:58:28.922 - Accepted 127.0.0.1:39468
+[2695] 27 Mar 16:58:28.923 * DB saved on disk
+[2695] 27 Mar 16:58:28.923 - Client closed connection
+[2695] 27 Mar 16:58:28.928 - Accepted 127.0.0.1:39469
+[2695] 27 Mar 16:58:28.928 - Accepted 127.0.0.1:39470
+[2695] 27 Mar 16:58:29.000 - Client closed connection
+[2695] 27 Mar 16:58:29.001 - Accepted 127.0.0.1:39471
+[2695] 27 Mar 16:58:29.001 - Client closed connection
+[2695] 27 Mar 16:58:29.014 * DB saved on disk
+[2695] 27 Mar 16:58:29.015 - Client closed connection
+[2695] 27 Mar 16:58:29.017 - Accepted 127.0.0.1:39472
+[2695] 27 Mar 16:58:29.017 - Accepted 127.0.0.1:39473
+[2695] 27 Mar 16:58:29.089 - Client closed connection
+[2695] 27 Mar 16:58:29.089 - Client closed connection
+[2695] 27 Mar 16:58:29.091 - Accepted 127.0.0.1:39474
+[2695] 27 Mar 16:58:29.098 * DB saved on disk
+[2695] 27 Mar 16:58:29.100 - Client closed connection
+[2695] 27 Mar 16:58:29.100 - Accepted 127.0.0.1:39475
+[2695] 27 Mar 16:58:29.100 - Accepted 127.0.0.1:39476
+[2695] 27 Mar 16:58:29.157 - Client closed connection
+[2695] 27 Mar 16:58:29.157 - Client closed connection
+[2695] 27 Mar 16:58:29.158 - Accepted 127.0.0.1:39477
+[2695] 27 Mar 16:58:29.160 * DB saved on disk
+[2695] 27 Mar 16:58:29.160 - Client closed connection
+[2695] 27 Mar 16:58:29.165 - Accepted 127.0.0.1:39478
+[2695] 27 Mar 16:58:29.165 - Accepted 127.0.0.1:39479
+[2695] 27 Mar 16:58:29.233 - Client closed connection
+[2695] 27 Mar 16:58:29.233 - Client closed connection
+[2695] 27 Mar 16:58:29.235 - Accepted 127.0.0.1:39480
+[2695] 27 Mar 16:58:29.238 * DB saved on disk
+[2695] 27 Mar 16:58:29.239 - Client closed connection
+[2695] 27 Mar 16:58:29.241 - Accepted 127.0.0.1:39481
+[2695] 27 Mar 16:58:29.241 - Accepted 127.0.0.1:39482
+[2695] 27 Mar 16:58:29.296 - Client closed connection
+[2695] 27 Mar 16:58:29.296 - Client closed connection
+[2695] 27 Mar 16:58:29.296 - Accepted 127.0.0.1:39483
+[2695] 27 Mar 16:58:29.298 * DB saved on disk
+[2695] 27 Mar 16:58:29.298 - Client closed connection
+[2695] 27 Mar 16:58:29.301 - Accepted 127.0.0.1:39484
+[2695] 27 Mar 16:58:29.301 - Accepted 127.0.0.1:39485
+[2695] 27 Mar 16:58:29.365 - Client closed connection
+[2695] 27 Mar 16:58:29.365 - Client closed connection
+[2695] 27 Mar 16:58:29.366 - Accepted 127.0.0.1:39486
+[2695] 27 Mar 16:58:29.368 * DB saved on disk
+[2695] 27 Mar 16:58:29.368 - Client closed connection
+[2695] 27 Mar 16:58:29.371 - Accepted 127.0.0.1:39487
+[2695] 27 Mar 16:58:29.371 - Accepted 127.0.0.1:39488
+[2695] 27 Mar 16:58:29.433 - Client closed connection
+[2695] 27 Mar 16:58:29.433 - Client closed connection
+[2695] 27 Mar 16:58:29.433 - Accepted 127.0.0.1:39489
+[2695] 27 Mar 16:58:29.435 * DB saved on disk
+[2695] 27 Mar 16:58:29.435 - Client closed connection
+[2695] 27 Mar 16:58:29.439 - Accepted 127.0.0.1:39490
+[2695] 27 Mar 16:58:29.440 - Accepted 127.0.0.1:39491
+[2695] 27 Mar 16:58:29.508 - Client closed connection
+[2695] 27 Mar 16:58:29.508 - Client closed connection
+[2695] 27 Mar 16:58:29.508 - Accepted 127.0.0.1:39492
+[2695] 27 Mar 16:58:29.509 * DB saved on disk
+[2695] 27 Mar 16:58:29.510 - Client closed connection
+[2695] 27 Mar 16:58:29.511 - Accepted 127.0.0.1:39493
+[2695] 27 Mar 16:58:29.511 - Accepted 127.0.0.1:39494
+[2695] 27 Mar 16:58:29.578 - Client closed connection
+[2695] 27 Mar 16:58:29.578 - Client closed connection
+[2695] 27 Mar 16:58:29.579 - Accepted 127.0.0.1:39495
+[2695] 27 Mar 16:58:29.580 * DB saved on disk
+[2695] 27 Mar 16:58:29.580 - Client closed connection
+[2695] 27 Mar 16:58:29.582 - Accepted 127.0.0.1:39496
+[2695] 27 Mar 16:58:29.582 - Accepted 127.0.0.1:39497
+[2695] 27 Mar 16:58:29.644 - Client closed connection
+[2695] 27 Mar 16:58:29.645 - Client closed connection
+[2695] 27 Mar 16:58:29.645 - Accepted 127.0.0.1:39498
+[2695] 27 Mar 16:58:29.648 * DB saved on disk
+[2695] 27 Mar 16:58:29.649 - Client closed connection
+[2695] 27 Mar 16:58:29.651 - Accepted 127.0.0.1:39499
+[2695] 27 Mar 16:58:29.651 - Accepted 127.0.0.1:39500
+[2695] 27 Mar 16:58:29.718 - Client closed connection
+[2695] 27 Mar 16:58:29.718 - Client closed connection
+[2695] 27 Mar 16:58:29.718 - Accepted 127.0.0.1:39501
+[2695] 27 Mar 16:58:29.721 * DB saved on disk
+[2695] 27 Mar 16:58:29.721 - Client closed connection
+[2695] 27 Mar 16:58:29.724 - Accepted 127.0.0.1:39502
+[2695] 27 Mar 16:58:29.724 - Accepted 127.0.0.1:39503
+[2695] 27 Mar 16:58:29.731 - Accepted 127.0.0.1:39504
+[2695] 27 Mar 16:58:29.731 - Accepted 127.0.0.1:39505
+[2695] 27 Mar 16:58:29.732 - Accepted 127.0.0.1:39506
+[2695] 27 Mar 16:58:29.732 - Accepted 127.0.0.1:39507
+[2695] 27 Mar 16:58:29.807 - Client closed connection
+[2695] 27 Mar 16:58:29.807 - Client closed connection
+[2695] 27 Mar 16:58:29.807 - Accepted 127.0.0.1:39508
+[2695] 27 Mar 16:58:29.811 * DB saved on disk
+[2695] 27 Mar 16:58:29.811 - Client closed connection
+[2695] 27 Mar 16:58:29.814 - Accepted 127.0.0.1:39509
+[2695] 27 Mar 16:58:29.814 - Accepted 127.0.0.1:39510
+[2695] 27 Mar 16:58:29.820 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.820 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.837 - Reading from client: Connection reset by peer
+[2695] 27 Mar 16:58:29.838 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:29.839 - Accepted 127.0.0.1:39511
+[2695] 27 Mar 16:58:29.847 * DB saved on disk
+[2695] 27 Mar 16:58:29.847 - Client closed connection
+[2695] 27 Mar 16:58:29.849 - Accepted 127.0.0.1:39512
+[2695] 27 Mar 16:58:29.849 - Accepted 127.0.0.1:39513
+[2695] 27 Mar 16:58:29.853 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.853 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.861 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:29.861 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:29.862 - Accepted 127.0.0.1:39514
+[2695] 27 Mar 16:58:29.864 * DB saved on disk
+[2695] 27 Mar 16:58:29.865 - Client closed connection
+[2695] 27 Mar 16:58:29.867 - Accepted 127.0.0.1:39515
+[2695] 27 Mar 16:58:29.867 - Accepted 127.0.0.1:39516
+[2695] 27 Mar 16:58:29.873 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.873 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.890 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:29.891 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:29.891 - Accepted 127.0.0.1:39517
+[2695] 27 Mar 16:58:29.893 * DB saved on disk
+[2695] 27 Mar 16:58:29.894 - Client closed connection
+[2695] 27 Mar 16:58:29.898 - Accepted 127.0.0.1:39518
+[2695] 27 Mar 16:58:29.898 - Accepted 127.0.0.1:39519
+[2695] 27 Mar 16:58:29.902 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.903 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.938 - Client closed connection
+[2695] 27 Mar 16:58:29.939 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:29.940 - Accepted 127.0.0.1:39520
+[2695] 27 Mar 16:58:29.943 * DB saved on disk
+[2695] 27 Mar 16:58:29.945 - Client closed connection
+[2695] 27 Mar 16:58:29.945 - Accepted 127.0.0.1:39521
+[2695] 27 Mar 16:58:29.945 - Accepted 127.0.0.1:39522
+[2695] 27 Mar 16:58:29.953 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.953 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:29.962 - Client closed connection
+[2695] 27 Mar 16:58:29.962 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:29.962 - Accepted 127.0.0.1:39523
+[2695] 27 Mar 16:58:29.969 * DB saved on disk
+[2695] 27 Mar 16:58:29.985 - Client closed connection
+[2695] 27 Mar 16:58:29.998 - Accepted 127.0.0.1:39524
+[2695] 27 Mar 16:58:29.998 - Accepted 127.0.0.1:39525
+[2695] 27 Mar 16:58:30.011 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:30.011 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:30.318 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[2695] 27 Mar 16:58:30.318 - 18 clients connected (0 slaves), 897248 bytes in use
+[2695] 27 Mar 16:58:31.409 - Client closed connection
+[2695] 27 Mar 16:58:31.410 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:31.410 - Accepted 127.0.0.1:39526
+[2695] 27 Mar 16:58:31.413 * DB saved on disk
+[2695] 27 Mar 16:58:31.413 - Client closed connection
+[2695] 27 Mar 16:58:31.414 - Accepted 127.0.0.1:39527
+[2695] 27 Mar 16:58:31.415 - Accepted 127.0.0.1:39528
+[2695] 27 Mar 16:58:31.418 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:31.419 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:32.147 - Client closed connection
+[2695] 27 Mar 16:58:32.147 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:32.147 - Accepted 127.0.0.1:39529
+[2695] 27 Mar 16:58:32.875 * DB saved on disk
+[2695] 27 Mar 16:58:32.877 - Client closed connection
+[2695] 27 Mar 16:58:32.883 - Accepted 127.0.0.1:39530
+[2695] 27 Mar 16:58:32.883 - Accepted 127.0.0.1:39531
+[2695] 27 Mar 16:58:32.888 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:32.888 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:32.900 - Reading from client: Connection reset by peer
+[2695] 27 Mar 16:58:32.900 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:32.902 - Accepted 127.0.0.1:39532
+[2695] 27 Mar 16:58:32.905 * DB saved on disk
+[2695] 27 Mar 16:58:32.906 - Client closed connection
+[2695] 27 Mar 16:58:32.908 - Accepted 127.0.0.1:39533
+[2695] 27 Mar 16:58:32.908 - Accepted 127.0.0.1:39534
+[2695] 27 Mar 16:58:32.912 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:32.912 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:32.923 - Client closed connection
+[2695] 27 Mar 16:58:32.923 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:32.924 - Accepted 127.0.0.1:39535
+[2695] 27 Mar 16:58:32.934 * DB saved on disk
+[2695] 27 Mar 16:58:32.938 - Client closed connection
+[2695] 27 Mar 16:58:32.938 - Accepted 127.0.0.1:39536
+[2695] 27 Mar 16:58:32.938 - Accepted 127.0.0.1:39537
+[2695] 27 Mar 16:58:32.958 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:32.958 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:32.998 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:32.999 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:32.999 - Accepted 127.0.0.1:39538
+[2695] 27 Mar 16:58:33.008 * DB saved on disk
+[2695] 27 Mar 16:58:33.009 - Client closed connection
+[2695] 27 Mar 16:58:33.012 - Accepted 127.0.0.1:39539
+[2695] 27 Mar 16:58:33.012 - Accepted 127.0.0.1:39540
+[2695] 27 Mar 16:58:33.024 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.025 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.074 - Client closed connection
+[2695] 27 Mar 16:58:33.074 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.074 - Accepted 127.0.0.1:39541
+[2695] 27 Mar 16:58:33.076 * DB saved on disk
+[2695] 27 Mar 16:58:33.076 - Client closed connection
+[2695] 27 Mar 16:58:33.080 - Accepted 127.0.0.1:39542
+[2695] 27 Mar 16:58:33.080 - Accepted 127.0.0.1:39543
+[2695] 27 Mar 16:58:33.084 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.084 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.091 - Client closed connection
+[2695] 27 Mar 16:58:33.091 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.097 - Accepted 127.0.0.1:39544
+[2695] 27 Mar 16:58:33.112 * DB saved on disk
+[2695] 27 Mar 16:58:33.124 - Client closed connection
+[2695] 27 Mar 16:58:33.140 - Accepted 127.0.0.1:39545
+[2695] 27 Mar 16:58:33.140 - Accepted 127.0.0.1:39546
+[2695] 27 Mar 16:58:33.151 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.151 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.188 - Client closed connection
+[2695] 27 Mar 16:58:33.188 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.191 - Accepted 127.0.0.1:39547
+[2695] 27 Mar 16:58:33.194 * DB saved on disk
+[2695] 27 Mar 16:58:33.196 - Client closed connection
+[2695] 27 Mar 16:58:33.208 - Accepted 127.0.0.1:39548
+[2695] 27 Mar 16:58:33.208 - Accepted 127.0.0.1:39549
+[2695] 27 Mar 16:58:33.217 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.218 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.252 - Client closed connection
+[2695] 27 Mar 16:58:33.252 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.262 - Accepted 127.0.0.1:39550
+[2695] 27 Mar 16:58:33.267 * DB saved on disk
+[2695] 27 Mar 16:58:33.277 - Client closed connection
+[2695] 27 Mar 16:58:33.290 - Accepted 127.0.0.1:39551
+[2695] 27 Mar 16:58:33.291 - Accepted 127.0.0.1:39552
+[2695] 27 Mar 16:58:33.299 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.299 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.326 - Client closed connection
+[2695] 27 Mar 16:58:33.326 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.326 - Accepted 127.0.0.1:39553
+[2695] 27 Mar 16:58:33.331 * DB saved on disk
+[2695] 27 Mar 16:58:33.335 - Client closed connection
+[2695] 27 Mar 16:58:33.340 - Accepted 127.0.0.1:39554
+[2695] 27 Mar 16:58:33.340 - Accepted 127.0.0.1:39555
+[2695] 27 Mar 16:58:33.351 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.351 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.419 - Client closed connection
+[2695] 27 Mar 16:58:33.419 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.420 - Accepted 127.0.0.1:39556
+[2695] 27 Mar 16:58:33.423 * DB saved on disk
+[2695] 27 Mar 16:58:33.424 - Client closed connection
+[2695] 27 Mar 16:58:33.425 - Accepted 127.0.0.1:39557
+[2695] 27 Mar 16:58:33.425 - Accepted 127.0.0.1:39558
+[2695] 27 Mar 16:58:33.431 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.432 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.481 - Client closed connection
+[2695] 27 Mar 16:58:33.481 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.483 - Accepted 127.0.0.1:39559
+[2695] 27 Mar 16:58:33.486 * DB saved on disk
+[2695] 27 Mar 16:58:33.486 - Client closed connection
+[2695] 27 Mar 16:58:33.488 - Accepted 127.0.0.1:39560
+[2695] 27 Mar 16:58:33.488 - Accepted 127.0.0.1:39561
+[2695] 27 Mar 16:58:33.492 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.492 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.556 - Client closed connection
+[2695] 27 Mar 16:58:33.556 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.557 - Accepted 127.0.0.1:39562
+[2695] 27 Mar 16:58:33.560 * DB saved on disk
+[2695] 27 Mar 16:58:33.560 - Client closed connection
+[2695] 27 Mar 16:58:33.563 - Accepted 127.0.0.1:39563
+[2695] 27 Mar 16:58:33.564 - Accepted 127.0.0.1:39564
+[2695] 27 Mar 16:58:33.567 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.568 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.634 - Client closed connection
+[2695] 27 Mar 16:58:33.634 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.634 - Accepted 127.0.0.1:39565
+[2695] 27 Mar 16:58:33.743 * DB saved on disk
+[2695] 27 Mar 16:58:33.744 - Client closed connection
+[2695] 27 Mar 16:58:33.745 - Accepted 127.0.0.1:39566
+[2695] 27 Mar 16:58:33.745 - Accepted 127.0.0.1:39567
+[2695] 27 Mar 16:58:33.750 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.750 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.816 - Client closed connection
+[2695] 27 Mar 16:58:33.817 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.817 - Accepted 127.0.0.1:39568
+[2695] 27 Mar 16:58:33.820 * DB saved on disk
+[2695] 27 Mar 16:58:33.822 - Client closed connection
+[2695] 27 Mar 16:58:33.822 - Accepted 127.0.0.1:39569
+[2695] 27 Mar 16:58:33.822 - Accepted 127.0.0.1:39570
+[2695] 27 Mar 16:58:33.827 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.827 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.883 - Client closed connection
+[2695] 27 Mar 16:58:33.883 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.883 - Accepted 127.0.0.1:39571
+[2695] 27 Mar 16:58:33.887 * DB saved on disk
+[2695] 27 Mar 16:58:33.888 - Client closed connection
+[2695] 27 Mar 16:58:33.891 - Accepted 127.0.0.1:39572
+[2695] 27 Mar 16:58:33.891 - Accepted 127.0.0.1:39573
+[2695] 27 Mar 16:58:33.896 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.896 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.966 - Client closed connection
+[2695] 27 Mar 16:58:33.966 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:33.967 - Accepted 127.0.0.1:39574
+[2695] 27 Mar 16:58:33.975 * DB saved on disk
+[2695] 27 Mar 16:58:33.977 - Client closed connection
+[2695] 27 Mar 16:58:33.979 - Accepted 127.0.0.1:39575
+[2695] 27 Mar 16:58:33.979 - Accepted 127.0.0.1:39576
+[2695] 27 Mar 16:58:33.983 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:33.983 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.041 - Client closed connection
+[2695] 27 Mar 16:58:34.042 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:34.042 - Accepted 127.0.0.1:39577
+[2695] 27 Mar 16:58:34.051 * DB saved on disk
+[2695] 27 Mar 16:58:34.053 - Client closed connection
+[2695] 27 Mar 16:58:34.054 - Accepted 127.0.0.1:39578
+[2695] 27 Mar 16:58:34.054 - Accepted 127.0.0.1:39579
+[2695] 27 Mar 16:58:34.060 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.060 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.126 - Client closed connection
+[2695] 27 Mar 16:58:34.126 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:34.126 - Accepted 127.0.0.1:39580
+[2695] 27 Mar 16:58:34.129 * DB saved on disk
+[2695] 27 Mar 16:58:34.130 - Client closed connection
+[2695] 27 Mar 16:58:34.132 - Accepted 127.0.0.1:39581
+[2695] 27 Mar 16:58:34.132 - Accepted 127.0.0.1:39582
+[2695] 27 Mar 16:58:34.137 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.138 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.204 - Client closed connection
+[2695] 27 Mar 16:58:34.204 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:34.205 - Accepted 127.0.0.1:39583
+[2695] 27 Mar 16:58:34.207 * DB saved on disk
+[2695] 27 Mar 16:58:34.208 - Client closed connection
+[2695] 27 Mar 16:58:34.210 - Accepted 127.0.0.1:39584
+[2695] 27 Mar 16:58:34.210 - Accepted 127.0.0.1:39585
+[2695] 27 Mar 16:58:34.215 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.216 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.283 - Client closed connection
+[2695] 27 Mar 16:58:34.283 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:34.283 - Accepted 127.0.0.1:39586
+[2695] 27 Mar 16:58:34.285 * DB saved on disk
+[2695] 27 Mar 16:58:34.285 - Client closed connection
+[2695] 27 Mar 16:58:34.287 - Accepted 127.0.0.1:39587
+[2695] 27 Mar 16:58:34.287 - Accepted 127.0.0.1:39588
+[2695] 27 Mar 16:58:34.293 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.293 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.359 - Client closed connection
+[2695] 27 Mar 16:58:34.359 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:34.360 - Accepted 127.0.0.1:39589
+[2695] 27 Mar 16:58:34.362 * DB saved on disk
+[2695] 27 Mar 16:58:34.362 - Client closed connection
+[2695] 27 Mar 16:58:34.365 - Accepted 127.0.0.1:39590
+[2695] 27 Mar 16:58:34.365 - Accepted 127.0.0.1:39591
+[2695] 27 Mar 16:58:34.370 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.370 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.441 - Client closed connection
+[2695] 27 Mar 16:58:34.442 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:34.442 - Accepted 127.0.0.1:39592
+[2695] 27 Mar 16:58:34.447 * DB saved on disk
+[2695] 27 Mar 16:58:34.450 - Client closed connection
+[2695] 27 Mar 16:58:34.450 - Accepted 127.0.0.1:39593
+[2695] 27 Mar 16:58:34.450 - Accepted 127.0.0.1:39594
+[2695] 27 Mar 16:58:34.455 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.455 - Accepted connection to /tmp/redis.sock
+[2695] 27 Mar 16:58:34.524 - Client closed connection
+[2695] 27 Mar 16:58:34.525 - Error writing to client: Broken pipe
+[2695] 27 Mar 16:58:34.525 - Accepted 127.0.0.1:39595
+[2695] 27 Mar 16:58:34.529 * DB saved on disk
+[2695] 27 Mar 16:58:34.529 - Client closed connection
+[2695] 27 Mar 16:58:34.539 - Client closed connection
+[2695] 27 Mar 16:58:34.540 - Client closed connection
+[2695] 27 Mar 16:58:34.540 - Client closed connection
+[2695] 27 Mar 16:58:34.540 - Client closed connection
+[2695] 27 Mar 16:58:34.540 - Client closed connection
+[2695] 27 Mar 16:58:34.540 - Client closed connection
+[2695] 27 Mar 16:58:34.540 - Client closed connection
+[2695] 27 Mar 16:58:34.540 - Client closed connection
+[2695] 27 Mar 16:58:34.540 - Client closed connection
+[2695] 27 Mar 16:58:34.540 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.541 - Client closed connection
+[2695] 27 Mar 16:58:34.542 - Client closed connection
+[2695] 27 Mar 16:58:34.542 - Client closed connection
+[2695] 27 Mar 16:58:34.542 - Client closed connection
+[2695] 27 Mar 16:58:34.542 - Client closed connection
+[2695] 27 Mar 16:58:34.542 - Client closed connection
+[2695] 27 Mar 16:58:34.542 - Client closed connection
+[2695] 27 Mar 16:58:34.542 - Client closed connection
+[2695] 27 Mar 16:58:34.542 - Client closed connection
+[2695] 27 Mar 16:58:34.542 - Client closed connection
+[2695] 27 Mar 16:58:34.543 - Client closed connection
+[2695] 27 Mar 16:58:34.543 - Client closed connection
+[2695] 27 Mar 16:58:34.543 - Client closed connection
+[2695] 27 Mar 16:58:34.543 - Client closed connection
+[2695] 27 Mar 16:58:34.543 - Client closed connection
+[2695] 27 Mar 16:58:34.543 - Client closed connection
+[2695] 27 Mar 16:58:34.543 - Client closed connection
+[2695] 27 Mar 16:58:34.543 - Client closed connection
+[2695] 27 Mar 16:58:34.543 - Client closed connection
+[2695] 27 Mar 16:58:34.544 - Client closed connection
+[2695] 27 Mar 16:58:34.544 - Client closed connection
+[2695] 27 Mar 16:58:34.544 - Client closed connection
+[2695] 27 Mar 16:58:34.544 - Client closed connection
+[2695] 27 Mar 16:58:34.544 - Client closed connection
+[2695] 27 Mar 16:58:34.544 - Client closed connection
+[2695] 27 Mar 16:58:34.544 - Client closed connection
+[2695] 27 Mar 16:58:34.544 - Client closed connection
+[2695] 27 Mar 16:58:34.544 - Client closed connection
+[2695] 27 Mar 16:58:34.545 - Client closed connection
+[2695] 27 Mar 16:58:34.545 - Client closed connection
+[2695] 27 Mar 16:58:34.545 - Client closed connection
+[2695] 27 Mar 16:58:34.545 - Client closed connection
+[2695] 27 Mar 16:58:34.545 - Client closed connection
+[2695] 27 Mar 16:58:34.545 - Client closed connection
+[2695] 27 Mar 16:58:34.545 - Client closed connection
+[2695] 27 Mar 16:58:34.545 - Client closed connection
+[2695] 27 Mar 16:58:34.546 - Client closed connection
+[2695] 27 Mar 16:58:34.546 - Client closed connection
+[2695] 27 Mar 16:58:34.546 - Client closed connection
+[2695] 27 Mar 16:58:34.546 - Client closed connection
+[2695] 27 Mar 16:58:34.546 - Client closed connection
+[2695] 27 Mar 16:58:34.546 - Client closed connection
+[2695] 27 Mar 16:58:34.546 - Client closed connection
+[2695] 27 Mar 16:58:36.059 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:58:41.076 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:58:46.094 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:58:51.109 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:58:56.126 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:01.163 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:06.181 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:11.206 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:16.225 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:21.243 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:26.258 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:31.276 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:36.297 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:41.316 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:46.333 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:51.347 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 16:59:56.363 - 0 clients connected (0 slaves), 444136 bytes in use
+[2695] 27 Mar 17:00:01.381 - 0 clients connected (0 slaves), 444136 bytes in use
